@@ -1,0 +1,554 @@
+#EXTINF:-1 xui-id="7913" tvg-id="" tvg-name="======== SKY UK ========" tvg-logo="http://shakeiptv.com:8080/images/pW2q9mYhl29ICtcGfxDTxOHMPdUA8N1Bms8GAaIdYGCMpaLGQY-KOYwL4ba7hPsj.png" group-title="United Kingdom (Backup)",======== SKY UK ========
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uLY40ln-JtkAQsID4pHnyhKab3tdZ54UtEHU1OwwmUge/ts
+#EXTINF:-1 xui-id="7914" tvg-id="" tvg-name="|UK| SKY SPORTS NEWS HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qg_thP7kiFp325Cp0OVUHAsU_GYvJiM9pc6JGEHywtOKg.png" group-title="United Kingdom (Backup)",|UK| SKY SPORTS NEWS HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uLY40ln-JtkAQsID4pHnyhJTVAsFac8ulyFJLCfRV8Z8/ts
+#EXTINF:-1 xui-id="7915" tvg-id="" tvg-name="|UK| SKY SPORTS MAIN EVENT FHD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhwyj491NTHxKdbw22HXk-fQS-ko2hN2F4DqoFdlmCP8g.png" group-title="United Kingdom (Backup)",|UK| SKY SPORTS MAIN EVENT FHD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uLY40ln-JtkAQsID4pHnyhIal5HUa7tFUSHtPmXHaLs6/ts
+#EXTINF:-1 xui-id="7916" tvg-id="" tvg-name="|UK| SKY SPORTS PREMIER LEAGUE FHD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhwyj491NTHxKdbw22HXk-fZ8ZV1wTvncg7DqH8AOWa0VL21WxiB2gAmVTWRNbBjvc.png" group-title="United Kingdom (Backup)",|UK| SKY SPORTS PREMIER LEAGUE FHD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uLY40ln-JtkAQsID4pHnyhIUXEXM285sn2RRrVy4IGCn/ts
+#EXTINF:-1 xui-id="7917" tvg-id="" tvg-name="|UK| SKY SPORTS FOOTBALL FHD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhwyj491NTHxKdbw22HXk-fBEcg7vMz0yyRa8k4N1GpKA.png" group-title="United Kingdom (Backup)",|UK| SKY SPORTS FOOTBALL FHD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uLY40ln-JtkAQsID4pHnyhKmWpSwWU8Fqtxo27YuQhf8/ts
+#EXTINF:-1 xui-id="7918" tvg-id="" tvg-name="|UK| SKY SPORTS CRICKET FHD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhwyj491NTHxKdbw22HXk-f_7s1WjRno2B6mKGiPWs50w.png" group-title="United Kingdom (Backup)",|UK| SKY SPORTS CRICKET FHD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uLY40ln-JtkAQsID4pHnyhKGF3JPhtel4qjSPYWiBNTY/ts
+#EXTINF:-1 xui-id="7919" tvg-id="" tvg-name="|UK| SKY SPORTS GOLF FHD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhwyj491NTHxKdbw22HXk-f-_8g3jxIk-uQmMHGeu58_w.png" group-title="United Kingdom (Backup)",|UK| SKY SPORTS GOLF FHD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uLY40ln-JtkAQsID4pHnyhIne2VT-JkwZZWwlVpLoVKZ/ts
+#EXTINF:-1 xui-id="7920" tvg-id="" tvg-name="|UK| SKY SPORTS F1 HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhwyj491NTHxKdbw22HXk-fLlu_hCnsVIYhu2LzMql3dg.png" group-title="United Kingdom (Backup)",|UK| SKY SPORTS F1 HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uEibrcL7OYCTFDJVrvG-L-2zn19n2MhgynVN4jbixl85/ts
+#EXTINF:-1 xui-id="7921" tvg-id="" tvg-name="|UK| SKY SPORTS ACTION FHD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhwyj491NTHxKdbw22HXk-fF00q7ZcLzDIoPYCAEIQTvw.png" group-title="United Kingdom (Backup)",|UK| SKY SPORTS ACTION FHD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uEibrcL7OYCTFDJVrvG-L-3zAJuMdNsxh8o7YumyjzjC/ts
+#EXTINF:-1 xui-id="7922" tvg-id="" tvg-name="|UK| SKY SPORTS ARENA FHD" tvg-logo="http://shakeiptv.com:8080/images/zVeZGotsuCqDsOltYjrMDsHy3lbMGz1do5nS9FJLA9B9aSI-lUA9TNFHnIJah2MF.png" group-title="United Kingdom (Backup)",|UK| SKY SPORTS ARENA FHD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uEibrcL7OYCTFDJVrvG-L-13cmkUtajx2CMwfwYPhYiI/ts
+#EXTINF:-1 xui-id="7923" tvg-id="" tvg-name="|UK| SKY SPORTS MIX HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhwyj491NTHxKdbw22HXk-f20KTnQcTYhacc6bBCG4KNQ.png" group-title="United Kingdom (Backup)",|UK| SKY SPORTS MIX HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uEibrcL7OYCTFDJVrvG-L-10rnrjcv-Hpmswolyaicbv/ts
+#EXTINF:-1 xui-id="7924" tvg-id="" tvg-name="|UK| SKY SPORTS MAIN EVENT" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhwyj491NTHxKdbw22HXk-fQS-ko2hN2F4DqoFdlmCP8g.png" group-title="United Kingdom (Backup)",|UK| SKY SPORTS MAIN EVENT
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uEibrcL7OYCTFDJVrvG-L-0SVRYZPEoOtF2qXQJbqnf_/ts
+#EXTINF:-1 xui-id="7925" tvg-id="" tvg-name="|UK| SKY SPORTS PREMIER LEAGUE" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhwyj491NTHxKdbw22HXk-fZ8ZV1wTvncg7DqH8AOWa0VL21WxiB2gAmVTWRNbBjvc.png" group-title="United Kingdom (Backup)",|UK| SKY SPORTS PREMIER LEAGUE
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uEibrcL7OYCTFDJVrvG-L-33sS-XvWTYdOE_ITovM3-z/ts
+#EXTINF:-1 xui-id="7926" tvg-id="" tvg-name="|UK| SKY SPORTS CRICKET" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhwyj491NTHxKdbw22HXk-f_7s1WjRno2B6mKGiPWs50w.png" group-title="United Kingdom (Backup)",|UK| SKY SPORTS CRICKET
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uEibrcL7OYCTFDJVrvG-L-3l2eIi99tunwSNM-fx7gKI/ts
+#EXTINF:-1 xui-id="7927" tvg-id="" tvg-name="|UK| SKY SPORTS GOLF" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhwyj491NTHxKdbw22HXk-f-_8g3jxIk-uQmMHGeu58_w.png" group-title="United Kingdom (Backup)",|UK| SKY SPORTS GOLF
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uEibrcL7OYCTFDJVrvG-L-27Wyznp82u_Pi_TzbYGfVv/ts
+#EXTINF:-1 xui-id="7928" tvg-id="" tvg-name="|UK| SKY SPORTS ACTION" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhwyj491NTHxKdbw22HXk-fF00q7ZcLzDIoPYCAEIQTvw.png" group-title="United Kingdom (Backup)",|UK| SKY SPORTS ACTION
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uEibrcL7OYCTFDJVrvG-L-3xVLVbhvEaI4Hb1cNBjTQI/ts
+#EXTINF:-1 xui-id="7929" tvg-id="" tvg-name="|UK| SKY SPORT MIX" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qg_thP7kiFp325Cp0OVUHAs68a3CUkVMMQRgF0NNHu0SQ.png" group-title="United Kingdom (Backup)",|UK| SKY SPORT MIX
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uEibrcL7OYCTFDJVrvG-L-1S7m81Y1WS7DSXzWUY5McC/ts
+#EXTINF:-1 xui-id="7930" tvg-id="" tvg-name="|UK| SKY SPORTS BOX OFFICE" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhNjYBPHzfT6qajSNt4ezgHE0UM0sznwF5HW3Q-Ug8N1Q.jpg" group-title="United Kingdom (Backup)",|UK| SKY SPORTS BOX OFFICE
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uDg910FT2WxYKZec9AQx7SNv8fTpq1doeK1gjv451wS2/ts
+#EXTINF:-1 xui-id="7931" tvg-id="" tvg-name="|UK| BT SPORTS 1 HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qiIdaHfE00AVjbCw25zfeg1czbfpzaUh8uCBsCiClnQdg.png" group-title="United Kingdom (Backup)",|UK| BT SPORTS 1 HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uDg910FT2WxYKZec9AQx7SP_yA2aam1SpcCWGFLyhhsX/ts
+#EXTINF:-1 xui-id="7932" tvg-id="" tvg-name="|UK| BT SPORT 3 HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhaMnlTMF7bvk3pvEAcsFbt7Diw3y4y-ema2ftF19vdEA.png" group-title="United Kingdom (Backup)",|UK| BT SPORT 3 HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uDg910FT2WxYKZec9AQx7SMaTjyeYEUSPGpdm8I99MTg/ts
+#EXTINF:-1 xui-id="7933" tvg-id="" tvg-name="|UK| BT SPORT 4 HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhaMnlTMF7bvk3pvEAcsFbt2WnaPrudFW690qcRK8SCmA.png" group-title="United Kingdom (Backup)",|UK| BT SPORT 4 HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uDg910FT2WxYKZec9AQx7SNWMBHvrNJ6hT9DtCuLJ5pQ/ts
+#EXTINF:-1 xui-id="7934" tvg-id="" tvg-name="|UK| BT SPORT 2 HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qjD6fB9bks7UsuEew-YXglyvXDdaWYNf5y9OhfOI7cPxA.png" group-title="United Kingdom (Backup)",|UK| BT SPORT 2 HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uDg910FT2WxYKZec9AQx7SOKXqiSK5mChkW-B3_ge3DA/ts
+#EXTINF:-1 xui-id="7935" tvg-id="" tvg-name="|UK| BT SPORT EXTRA 6" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhaMnlTMF7bvk3pvEAcsFbt397hrIlHtz4K4wnCrJ_IlQ.png" group-title="United Kingdom (Backup)",|UK| BT SPORT EXTRA 6
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uDg910FT2WxYKZec9AQx7SNYWmN0nXgXVFEsPMfpCmf4/ts
+#EXTINF:-1 xui-id="7936" tvg-id="" tvg-name="|UK| BT SPORT EXTRA 7" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhaMnlTMF7bvk3pvEAcsFbt5W9LsLevIO2liAIz7zzPRA.png" group-title="United Kingdom (Backup)",|UK| BT SPORT EXTRA 7
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uDg910FT2WxYKZec9AQx7SNgWsSzxWtEKflBlhSCPhnS/ts
+#EXTINF:-1 xui-id="7937" tvg-id="" tvg-name="|UK| BT SPORT EXTRA 8" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhaMnlTMF7bvk3pvEAcsFbtNOhWqt4ni2Ou7mhVgYz4Yw.png" group-title="United Kingdom (Backup)",|UK| BT SPORT EXTRA 8
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uDg910FT2WxYKZec9AQx7SP4EP-lxFqEHlWEmv14EeGS/ts
+#EXTINF:-1 xui-id="7938" tvg-id="" tvg-name="|UK| BT SPORT EXTRA 9" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhaMnlTMF7bvk3pvEAcsFbtgqDqj6IlSNSP3axURXdSEA.png" group-title="United Kingdom (Backup)",|UK| BT SPORT EXTRA 9
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uDg910FT2WxYKZec9AQx7SNEGjSZ4HOKALQy4gYMIBI8/ts
+#EXTINF:-1 xui-id="7939" tvg-id="" tvg-name="|UK| BT SPORT EXTRA 10" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhaMnlTMF7bvk3pvEAcsFbtFfG1TfQ8-iNXgisj4MLF_w.png" group-title="United Kingdom (Backup)",|UK| BT SPORT EXTRA 10
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uDg910FT2WxYKZec9AQx7SMcdQZuOn-MnWN-WQlWaY-o/ts
+#EXTINF:-1 xui-id="7940" tvg-id="" tvg-name="|UK| VIAPLAY SPORTS 1 HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qivPkyk4MG6eRAOMw0rRMSc-Qf86uzge0djLt3l9etLgw.png" group-title="United Kingdom (Backup)",|UK| VIAPLAY SPORTS 1 HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uLqztF1VK_jIb5Y9TqY0lvsnYC0Shmch9wggLeYDmXn6/ts
+#EXTINF:-1 xui-id="7941" tvg-id="" tvg-name="|UK| VIAPLAY SPORTS 2 HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qivPkyk4MG6eRAOMw0rRMSc-Qf86uzge0djLt3l9etLgw.png" group-title="United Kingdom (Backup)",|UK| VIAPLAY SPORTS 2 HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uLqztF1VK_jIb5Y9TqY0lvvjBqVAqJ2xBIeOdG1QvTCO/ts
+#EXTINF:-1 xui-id="7942" tvg-id="" tvg-name="|UK| RANGERS FC TV (Live for Matches)" tvg-logo="http://shakeiptv.com:8080/images/m1jGn-uggN-Shm8dFlQUuxbT_BEHDbzFxpM5FrH5wbz3sjbxxOaXbei8GGbuMDuZB7qsEQwxJNDw8F55EZ_BxGQexXdcz-Zqb40YEEcXijg.png" group-title="United Kingdom (Backup)",|UK| RANGERS FC TV (Live for Matches)
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uLqztF1VK_jIb5Y9TqY0lvs6KifrmrHJZ7Cnv7s07-hM/ts
+#EXTINF:-1 xui-id="7943" tvg-id="" tvg-name="|UK| CELTIC FC TV (Live for Matches)" tvg-logo="http://cdn.celticfc.net/assets/images/web/crest.png" group-title="United Kingdom (Backup)",|UK| CELTIC FC TV (Live for Matches)
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uLqztF1VK_jIb5Y9TqY0lvsTrLF2zx1OTat67Rt88KDL/ts
+#EXTINF:-1 xui-id="7944" tvg-id="" tvg-name="|UK| MUTV" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qgHYq3VUFNFKjm-WHpO6eQQ.png" group-title="United Kingdom (Backup)",|UK| MUTV
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uLqztF1VK_jIb5Y9TqY0lvtDIUxv68qOU-NJT9JQwcg4/ts
+#EXTINF:-1 xui-id="7945" tvg-id="" tvg-name="|UK| LIVERPOOL FC" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qh2y9DJcDhbwv1xGtFjCpgbUeMbpWs1CtzWx7LY-B-hYgP5oxK_scFNr_Dph5qPztk.png" group-title="United Kingdom (Backup)",|UK| LIVERPOOL FC
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uLqztF1VK_jIb5Y9TqY0lvumliLJviLIlleaEIfRZCdY/ts
+#EXTINF:-1 xui-id="7946" tvg-id="" tvg-name="|UK| EUROSPORT 1" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qgDkGI2mEu-ta-RHcWKi9gXxNIyxPkJW1-5rR2j8t1Q7Q.png" group-title="United Kingdom (Backup)",|UK| EUROSPORT 1
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uLqztF1VK_jIb5Y9TqY0lvu1XQweeUpi40my4lgpfae1/ts
+#EXTINF:-1 xui-id="7947" tvg-id="" tvg-name="|UK| EUROSPORT 2" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qjzMu6U6w3yS3SPyNF0gH73aLzuLUQ3kT8SHeQ10SOIBw.png" group-title="United Kingdom (Backup)",|UK| EUROSPORT 2
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uLqztF1VK_jIb5Y9TqY0lvvyVPykk7hqWO-My5ni4Izm/ts
+#EXTINF:-1 xui-id="7948" tvg-id="" tvg-name="|UK| BOX NATION HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qiH4eeJep-qlIE_nzUHbXNDCDWW4KbafZbYdpYxr2bs2w.png" group-title="United Kingdom (Backup)",|UK| BOX NATION HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uLqztF1VK_jIb5Y9TqY0lvtKT4iHAHoAp8WOb99-oyqJ/ts
+#EXTINF:-1 xui-id="7949" tvg-id="" tvg-name="|UK| RACING UK" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qiSNyt4n80KKTj-ZZWycPJcyFwun_LiVgy1td6p1HEEbg.png" group-title="United Kingdom (Backup)",|UK| RACING UK
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uLqztF1VK_jIb5Y9TqY0lvtQQ1YDThpWtGBMPI_kFSJw/ts
+#EXTINF:-1 xui-id="7950" tvg-id="" tvg-name="|UK| SKY SPORTS RACING" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qiO0fi8fx8L1HbJxXrqZIVZutqFXgSZc4AkB2SJaZOPsg.png" group-title="United Kingdom (Backup)",|UK| SKY SPORTS RACING
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uHONhd_DPbqY0ZP5jbPSbdQsJGGhVRHORYbpAenHaOAY/ts
+#EXTINF:-1 xui-id="7951" tvg-id="" tvg-name="|UK| VIAPLAY XTRA" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qjoakMVv4DAF2sraAgU58NtGt5b4krp6PyQM69H-Vyjiw.png" group-title="United Kingdom (Backup)",|UK| VIAPLAY XTRA
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uHONhd_DPbqY0ZP5jbPSbdQZyQ_kT9Rqq5kN17G-iEmm/ts
+#EXTINF:-1 xui-id="7952" tvg-id="" tvg-name="|UK| MOTORS TV" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qha06rbq3dSqiAt8wJnUlCn2F4XClpRMIwADFj3XD_xjQ.png" group-title="United Kingdom (Backup)",|UK| MOTORS TV
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uHONhd_DPbqY0ZP5jbPSbdRCT4zKxo_vRsReLnGYq6FW/ts
+#EXTINF:-1 xui-id="7953" tvg-id="" tvg-name="|UK| BBC 1 HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qiav4Zp-xMwxzMh3UG2UdoOs5VGXZmSlYuW3RyoDFbZNA.png" group-title="UK Entertainment",|UK| BBC 1 HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uHONhd_DPbqY0ZP5jbPSbdQneOkKGgJn87Ejykvwu53H/ts
+#EXTINF:-1 xui-id="7954" tvg-id="" tvg-name="|UK| BBC 2" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qiPjKg_f75aB5uX4mu8wmpMA1BeDvgrJs6tDMqcku_EiA.png" group-title="UK Entertainment",|UK| BBC 2
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uHONhd_DPbqY0ZP5jbPSbdQXBt_eR76Zf4Lc3N7iNcti/ts
+#EXTINF:-1 xui-id="7955" tvg-id="" tvg-name="|UK| BBC 2 HD" tvg-logo="http://shakeiptv.com:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWVxFgCqkV_CmLZUi2nGl5Bv9mkCKfFGWh122tw_FzX_FQP5AAQINOSfhYQVTsWtPWm6HOARwiTaA5o75a0kLDUQ.png" group-title="UK Entertainment",|UK| BBC 2 HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uHONhd_DPbqY0ZP5jbPSbdS4OSYsr1JW9UHHGYNBns_Q/ts
+#EXTINF:-1 xui-id="7956" tvg-id="" tvg-name="|UK| CBBC HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhc7j7HfdqH_pN2DhDoJVNZw7BMi4DoigglY_IHJFJLrg.png" group-title="UK Entertainment",|UK| CBBC HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uHONhd_DPbqY0ZP5jbPSbdQVk7Us2A4qxwj2qtypL8Zt/ts
+#EXTINF:-1 xui-id="7957" tvg-id="" tvg-name="|UK| BBC 4 HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qjRPwO3L1soKxybHuDbrghqX6_hs9qTYF17Ot-uaHhIlA.png" group-title="UK Entertainment",|UK| BBC 4 HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uHONhd_DPbqY0ZP5jbPSbdSLSmNsXs0c201vo5t-IYsB/ts
+#EXTINF:-1 xui-id="7958" tvg-id="" tvg-name="|UK| BBC PARLIAMENT" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qi3ysvDLwynAM2jxyrl6Q3tU40aaJ11re8Pn2topepiaA.png" group-title="UK Entertainment",|UK| BBC PARLIAMENT
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uHONhd_DPbqY0ZP5jbPSbdTbi3Hg8gFsaYcjWbyRLMpS/ts
+#EXTINF:-1 xui-id="7959" tvg-id="" tvg-name="|UK| BBC ALBA" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhiJDCRXRB47f-5y7N_Lj7aSJsi89ZBhW7PswHVuKY31w.png" group-title="UK Entertainment",|UK| BBC ALBA
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uHONhd_DPbqY0ZP5jbPSbdR5ejQ104t8vdvpN_ULUR1v/ts
+#EXTINF:-1 xui-id="7960" tvg-id="" tvg-name="|UK| CBBC" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhc7j7HfdqH_pN2DhDoJVNZw7BMi4DoigglY_IHJFJLrg.png" group-title="UK Entertainment",|UK| CBBC
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uIordKsidfWwOiTjfsR0sb8W-aKGEizpU-NqfHEtfRDZ/ts
+#EXTINF:-1 xui-id="7961" tvg-id="" tvg-name="|UK| ITV1" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qgJwNvwvEqi9y3oUFVM4yuw.png" group-title="UK Entertainment",|UK| ITV1
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uIordKsidfWwOiTjfsR0sb_RswVNpTg6gOi8gZjk87ym/ts
+#EXTINF:-1 xui-id="7962" tvg-id="" tvg-name="|UK| ITV +1 HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qh56LQGO31KYx7m4z-_0SuG9l9_xDT_lyDpRba4AdZiYw.png" group-title="UK Entertainment",|UK| ITV +1 HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uIordKsidfWwOiTjfsR0sb8aicITl-WrQcdlAdDj4lq9/ts
+#EXTINF:-1 xui-id="7963" tvg-id="" tvg-name="|UK| ITV2" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhVhCgd0jD4pcLNvW5eaYidPTJMT805j8zI4reDymxrMQ.png" group-title="UK Entertainment",|UK| ITV2
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uIordKsidfWwOiTjfsR0sb_FpWBD7k1Cm31NCwOOUPf8/ts
+#EXTINF:-1 xui-id="7964" tvg-id="" tvg-name="|UK| ITV2 +1" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhrA-idfl4YJj-mN1XDnzqcgac0CqJvRaQBYK_0WPhZ3w.png" group-title="UK Entertainment",|UK| ITV2 +1
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uIordKsidfWwOiTjfsR0sb9CQbpZ5jVFw-80VsKhkE8m/ts
+#EXTINF:-1 xui-id="7965" tvg-id="" tvg-name="|UK| ITV3" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qimrWCtMoEmGmcGTxW8OqskaiK8VFnH4iyx3HXv_xlENg.png" group-title="UK Entertainment",|UK| ITV3
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uIordKsidfWwOiTjfsR0sb-NlR1SNuYWRlAnP5ht0l2O/ts
+#EXTINF:-1 xui-id="7966" tvg-id="" tvg-name="|UK| ITV3 +1" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhVxixvxwZvHoMREbsBHqZaLj8Dby7Q3NBqLAAtrdNBFA.png" group-title="UK Entertainment",|UK| ITV3 +1
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uIordKsidfWwOiTjfsR0sb-7s1kRlIQU6ECCkoR1_W0g/ts
+#EXTINF:-1 xui-id="7967" tvg-id="" tvg-name="|UK| ITV4" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qjFQ_-zLUt4eOs17ty7awlFt_BUsMwEMJjDYW5dRKppdQ.png" group-title="UK Entertainment",|UK| ITV4
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uIordKsidfWwOiTjfsR0sb-2A4OXAhgKmg75TCq4hwFf/ts
+#EXTINF:-1 xui-id="7968" tvg-id="" tvg-name="|UK| ITV4 +1" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhBwL1X6AZBdF0eYkNZ6rtkVN_4h_USB-0V9cFQqRTJ4Q.png" group-title="UK Entertainment",|UK| ITV4 +1
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uIordKsidfWwOiTjfsR0sb-cJGCcBamrFoJ_9Vi4Gu7C/ts
+#EXTINF:-1 xui-id="7969" tvg-id="" tvg-name="|UK| 5ACTION" tvg-logo="http://shakeiptv.com:8080/images/zVeZGotsuCqDsOltYjrMDiNAUMd_yEXjn3xDTBcyBUV2OGYiLgaTwO6guavOLON7.png" group-title="UK Entertainment",|UK| 5ACTION
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uIordKsidfWwOiTjfsR0sb-GylOBDRD8evxLFzV6DIc1/ts
+#EXTINF:-1 xui-id="7970" tvg-id="" tvg-name="|UK| ITV BE" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qjEaJlGbXR4aW5oAxrgeQr3yFjGOIGWfdxO8fliECAIGQ.png" group-title="UK Entertainment",|UK| ITV BE
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uKWom-i_xETw8wki1UErLrzr15iP25_oCJAvVC-psx7p/ts
+#EXTINF:-1 xui-id="7971" tvg-id="" tvg-name="|UK| 4Seven" tvg-logo="http://shakeiptv.com:8080/images/8MO0lTnj9M_ERwLqQMxWzuqqdL3WouG9qJhpUhln9Ldl0yOby-GF6rE-0Z1Q-ECOW89C-NcwJ-Wnod-XF7zVO-ikqD_XDPBr9jOkrr41yVE.png" group-title="UK Entertainment",|UK| 4Seven
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uKWom-i_xETw8wki1UErLrzR8EYiwR8YUprMFjMQo6s4/ts
+#EXTINF:-1 xui-id="7972" tvg-id="" tvg-name="|UK| MORE 4" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qiUkme1_qn_M96-i4eZBDURWcDFwB90q870uWWy2a6o7A.png" group-title="UK Entertainment",|UK| MORE 4
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uKWom-i_xETw8wki1UErLryoz2h82KqsEnzaBKlZRO3M/ts
+#EXTINF:-1 xui-id="7973" tvg-id="" tvg-name="|UK| CHANNEL 4 HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhtj5QPqSECqqtNN-CzO0UvvXq2Jd0HoGev6ukZdBpqrg.png" group-title="UK Entertainment",|UK| CHANNEL 4 HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uKWom-i_xETw8wki1UErLrwNO3Xeld1DMzKVJQQQevCL/ts
+#EXTINF:-1 xui-id="7974" tvg-id="" tvg-name="|UK| CHANNEL 5 HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qjgBS2PeGJyDcgAVSj4MEBfyy3s04op7j29FbliRBU0Yg.png" group-title="UK Entertainment",|UK| CHANNEL 5 HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uKWom-i_xETw8wki1UErLrwXJv_vkPSE8GwzEl7rKCqa/ts
+#EXTINF:-1 xui-id="7975" tvg-id="" tvg-name="|UK| CHANNEL 5 +1" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qjgBS2PeGJyDcgAVSj4MEBflwdQjh3nyeBVoEXapB-9tA.png" group-title="UK Entertainment",|UK| CHANNEL 5 +1
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uKWom-i_xETw8wki1UErLrxm3DCTnxGyU8WhCVkT8zXH/ts
+#EXTINF:-1 xui-id="7976" tvg-id="" tvg-name="|UK| 5 USA" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qjgBS2PeGJyDcgAVSj4MEBfhARpXN3v7iEqSvqYb9uSBg.png" group-title="UK Entertainment",|UK| 5 USA
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uKWom-i_xETw8wki1UErLrw-BC9_OmYJLR4ir0JTcEaz/ts
+#EXTINF:-1 xui-id="7977" tvg-id="" tvg-name="|UK| 5 USA +1" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qjgBS2PeGJyDcgAVSj4MEBflwdQjh3nyeBVoEXapB-9tA.png" group-title="UK Entertainment",|UK| 5 USA +1
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uKWom-i_xETw8wki1UErLrwXDEw-C8oVE_aWhmaJ47bg/ts
+#EXTINF:-1 xui-id="7978" tvg-id="" tvg-name="|UK| SKY ATLANTIC" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qgATwdd1nwAxMH7EGS1u2FvISzjNwjz3zNCv7lMdjRViw.png" group-title="UK Entertainment",|UK| SKY ATLANTIC
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uKWom-i_xETw8wki1UErLrzqJ69vTJMYPA2d0op8DsK_/ts
+#EXTINF:-1 xui-id="7979" tvg-id="" tvg-name="|UK| CBS REALITY" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qh9oDKoQKcCIeAsQ27fCKYvTdkEwAN-60ksZGL4HH2ZRQ.png" group-title="UK Entertainment",|UK| CBS REALITY
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uKWom-i_xETw8wki1UErLrzMyWY9WXq0Sh3S7XzJiAxt/ts
+#EXTINF:-1 xui-id="7980" tvg-id="" tvg-name="|UK| SKY ARTS HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qgZa2tGUrZPn5QAbO_h1UNjGW917HmWbNW-ruRI8voWmw.png" group-title="UK Entertainment",|UK| SKY ARTS HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uPOgu9zfOpq3v6vd7XHBYrp3OKcqUenY5ZAvZlfIU6X3/ts
+#EXTINF:-1 xui-id="7981" tvg-id="" tvg-name="|UK| SKY MAX" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhS2YHoaE0NzVOgQv0l1o7ll1MHA8-ZC3SPG-AfjfvQxw.png" group-title="UK Entertainment",|UK| SKY MAX
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uPOgu9zfOpq3v6vd7XHBYrpdUDmiOoSIsv4AjEOU8igL/ts
+#EXTINF:-1 xui-id="7982" tvg-id="" tvg-name="|UK| SKY REPLAY" tvg-logo="http://shakeiptv.com:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWVxFgCqkV_CmLZUi2nGl5Bv2OAV-hXzoy1jJWcbONJE-c_labYbK0tZmiAkq15OEUFszGIab_5iFCmFLLcJWC8P.png" group-title="UK Entertainment",|UK| SKY REPLAY
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uPOgu9zfOpq3v6vd7XHBYrqxTaiBEYtMoEN1nW_MFTa_/ts
+#EXTINF:-1 xui-id="7983" tvg-id="" tvg-name="|UK| E4" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qggP3x1MkL3wC2JbraWFvdB.png" group-title="UK Entertainment",|UK| E4
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uPOgu9zfOpq3v6vd7XHBYroQya1qNjmhVCJ-Lm6sMgIN/ts
+#EXTINF:-1 xui-id="7984" tvg-id="" tvg-name="|UK| E4 +1" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qggP3x1MkL3wC2JbraWFvdB.png" group-title="UK Entertainment",|UK| E4 +1
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uPOgu9zfOpq3v6vd7XHBYrpogXOjQlkoc3mtTFFD7L1U/ts
+#EXTINF:-1 xui-id="7985" tvg-id="" tvg-name="|UK| E!" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qh-x9HUfFQIJmICn0yOxDQXnCbFW-BGwL8MYFdksrAmkA.png" group-title="UK Entertainment",|UK| E!
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uPOgu9zfOpq3v6vd7XHBYrqMKk3SNF93L8BDRKIVgm8I/ts
+#EXTINF:-1 xui-id="7986" tvg-id="" tvg-name="|UK| SKY WITNESS HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qjMMmNMeNezZwXhfGg1PKOSfSDy1cap4x89WYcP7_HvFg.png" group-title="UK Entertainment",|UK| SKY WITNESS HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uPOgu9zfOpq3v6vd7XHBYrqcyWma9PIsTW4xwRerujrU/ts
+#EXTINF:-1 xui-id="7987" tvg-id="" tvg-name="|UK| GOLD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qiXKaBkmQn_j0jI-Fx1UhsfKnaobWM32qtOdtQ7CR-ZVg.png" group-title="UK Entertainment",|UK| GOLD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uPOgu9zfOpq3v6vd7XHBYrpRmWkHR9I2NlJMJLyf3y93/ts
+#EXTINF:-1 xui-id="7988" tvg-id="" tvg-name="|UK| 5 STAR" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qjgBS2PeGJyDcgAVSj4MEBfngkAEDQ9rsimMyxALXZQow.png" group-title="UK Entertainment",|UK| 5 STAR
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uPOgu9zfOpq3v6vd7XHBYrq1LbHI9r7RDhx4dHGH_5Ts/ts
+#EXTINF:-1 xui-id="7989" tvg-id="" tvg-name="|UK| 5 STAR +1" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qjgBS2PeGJyDcgAVSj4MEBf_6enaBc1_nOUonRBhe5udOgwcj3lANvNd4_csaD1LWA.png" group-title="UK Entertainment",|UK| 5 STAR +1
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uPOgu9zfOpq3v6vd7XHBYrpem6Z-R9B-1YTSTfKc109Z/ts
+#EXTINF:-1 xui-id="7990" tvg-id="" tvg-name="|UK| 5SELECT" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qgc6qhgI1wT7ScsicBpi7lcYrtgZCvgq9vTg1kk9rS8OA.png" group-title="UK Entertainment",|UK| 5SELECT
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uDJ46gzyo-VGXL8MswtThBi_I46ZJ_ss_yCdP4eJ1fv2/ts
+#EXTINF:-1 xui-id="7991" tvg-id="" tvg-name="|UK| DAVE" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qgwlVA_8V4m2WTDGIumwdlgjArO3UOGhecwxA0gWNQTvw.png" group-title="UK Entertainment",|UK| DAVE
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uDJ46gzyo-VGXL8MswtThBibG7clyS7MAoFbqcSzCZzk/ts
+#EXTINF:-1 xui-id="7992" tvg-id="" tvg-name="|UK| HGTV" tvg-logo="http://shakeiptv.com:8080/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yrD83F1lvYoqMKgPkblOCHeVTKDqHcY9plKHhUneExGdA.png" group-title="UK Entertainment",|UK| HGTV
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uDJ46gzyo-VGXL8MswtThBh1Q0RoJeOGU-ukg4QLiPN1/ts
+#EXTINF:-1 xui-id="7993" tvg-id="" tvg-name="|UK| ALIBI HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qg3WbKi_QPe3ngFhMsnMnueAWLYcPrPtZaQwu-mMc8iVg.png" group-title="UK Entertainment",|UK| ALIBI HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uDJ46gzyo-VGXL8MswtThBi_acLmIs5oLJkohXsjJbXr/ts
+#EXTINF:-1 xui-id="7994" tvg-id="" tvg-name="|UK| LONDON LIVE" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qgw1iSdIFxegAUDaJL5Bfc1NDqyqVvU7EzWhfRk_TAFsQ.png" group-title="UK Entertainment",|UK| LONDON LIVE
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uDJ46gzyo-VGXL8MswtThBhBpqIrZKLnKUnTPdmkcIt9/ts
+#EXTINF:-1 xui-id="7995" tvg-id="" tvg-name="|UK| TLC" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhCNs4MSx7rvsyObmUAJ3QX.png" group-title="UK Entertainment",|UK| TLC
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uDJ46gzyo-VGXL8MswtThBjJWKSvACIbEvLR6bl5akIt/ts
+#EXTINF:-1 xui-id="7996" tvg-id="" tvg-name="|UK| SKY SCI-FI" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qiuukj3S_3lJkNS6QRwglNyU4uMnXwB4RuPH1ySigx1dw.png" group-title="UK Entertainment",|UK| SKY SCI-FI
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uDJ46gzyo-VGXL8MswtThBiKX4-txjveiTbwUWyAsDeh/ts
+#EXTINF:-1 xui-id="7997" tvg-id="" tvg-name="|UK| RTE 1 HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhzOY-2MM79y90ur8AvXad5zYOEhFAorDyitpM8GK1ByA.png" group-title="UK Entertainment",|UK| RTE 1 HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uDJ46gzyo-VGXL8MswtThBixhZX0nKaArnFtH0de0Vze/ts
+#EXTINF:-1 xui-id="7998" tvg-id="" tvg-name="|UK| RTE 2 HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhb8z5B7QBN08QZ0hTeKvDTs-16tSVEnCj77I9PSrFRVw.png" group-title="UK Entertainment",|UK| RTE 2 HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uDJ46gzyo-VGXL8MswtThBjF-wFaHFxkQorcNejK3tL1/ts
+#EXTINF:-1 xui-id="7999" tvg-id="" tvg-name="|UK| SKY COMEDY HD" tvg-logo="http://shakeiptv.com:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWut4H7YcTxkVmlspnABM0ELAvNVmdwL4NNybRks6RmnsQKQa3yFDeaTe0X8YHCPR8.png" group-title="UK Entertainment",|UK| SKY COMEDY HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uDJ46gzyo-VGXL8MswtThBjUFcB0eH4oqgNMzwptRGcC/ts
+#EXTINF:-1 xui-id="8000" tvg-id="" tvg-name="|UK| COMEDY CENTRAL" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qgUZSTxvWJX_-qX8W5g6dWQpmLGApCHnUK9HkyjUZypkw.png" group-title="UK Entertainment",|UK| COMEDY CENTRAL
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uFXg7Ji-wviPq1nLAr0HmxkuMA4V4rUc4IDsHqUncH18/ts
+#EXTINF:-1 xui-id="8001" tvg-id="" tvg-name="|UK| COMEDY CENTRAL EXTRA" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qgUZSTxvWJX_-qX8W5g6dWQToTUZauEL_bpcqwzb9UJda6u4p_uspqiuwnC1fDKWgM.png" group-title="UK Entertainment",|UK| COMEDY CENTRAL EXTRA
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uFXg7Ji-wviPq1nLAr0HmxkUXkNfoFtNIDw0qNSveIoL/ts
+#EXTINF:-1 xui-id="8002" tvg-id="" tvg-name="|UK| VIRGIN TWO" tvg-logo="http://shakeiptv.com:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWVxFgCqkV_CmLZUi2nGl5BvOhfNPBjF4MJSaoRmSj-gyaDAERcb1rTAh9GjyIEfx7uJ6xrrHfit55OjZGQuYh9nf_Xo21hIQxxUn3a3hYk6Iw.png" group-title="UK Entertainment",|UK| VIRGIN TWO
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uFXg7Ji-wviPq1nLAr0HmxlOdji53F7jSsK78IxtitFs/ts
+#EXTINF:-1 xui-id="8003" tvg-id="" tvg-name="|UK| TG4 HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qiF__LO6ABRaI813jrcgj9x.png" group-title="UK Entertainment",|UK| TG4 HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uFXg7Ji-wviPq1nLAr0HmxkX6VHC1n-5BVHrMZkCRjNq/ts
+#EXTINF:-1 xui-id="8004" tvg-id="" tvg-name="|UK| UTV IE" tvg-logo="http://utv.ie/Assets/Images/social-south.png" group-title="UK Entertainment",|UK| UTV IE
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uFXg7Ji-wviPq1nLAr0HmxmRgaoQROL92MgkzIjdpT2Q/ts
+#EXTINF:-1 xui-id="8005" tvg-id="" tvg-name="|UK| EDEN" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhc2rJqxpEA16bHdgTjT7kkJ8ncjH8tQ6_QtHrxWdaxOQ.png" group-title="UK Entertainment",|UK| EDEN
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uFXg7Ji-wviPq1nLAr0HmxmK0nydOV7s8dWvfok-WfHi/ts
+#EXTINF:-1 xui-id="8006" tvg-id="" tvg-name="|UK| VIRGIN ONE HD" tvg-logo="http://shakeiptv.com:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWVxFgCqkV_CmLZUi2nGl5BvGzwoZZcgSApmYOq6xO6zBLSjkhvWzUHx6ni5niGURjnkc3bo3MpTgvKZlN3TLLLWanDrLA3SqxYTHPUN81U8pg.png" group-title="UK Entertainment",|UK| VIRGIN ONE HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uFXg7Ji-wviPq1nLAr0HmxmKyZTz1pHQDpDfyvCH5EPB/ts
+#EXTINF:-1 xui-id="8007" tvg-id="" tvg-name="|UK| YESTERDAY" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhheiK92Cue6vPJ0GInDBu9-pwkXF7LXYQya5MxUonH0A.png" group-title="UK Entertainment",|UK| YESTERDAY
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uFXg7Ji-wviPq1nLAr0HmxnKC2iVE1v9uJnUzc60dsub/ts
+#EXTINF:-1 xui-id="8008" tvg-id="" tvg-name="|UK| W" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qjm4kzRBOvysqDTbMJt3MD2nHia3jFmZOTK9OAJYm3CiQ.png" group-title="UK Entertainment",|UK| W
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uFXg7Ji-wviPq1nLAr0HmxlPVAgoaUDVFd52K2aDCjTB/ts
+#EXTINF:-1 xui-id="8009" tvg-id="" tvg-name="|UK| W +1" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qjm4kzRBOvysqDTbMJt3MD2nHia3jFmZOTK9OAJYm3CiQ.png" group-title="UK Entertainment",|UK| W +1
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uFXg7Ji-wviPq1nLAr0HmxlKBNDxlEsoOd99tRDLUwjA/ts
+#EXTINF:-1 xui-id="8010" tvg-id="" tvg-name="|UK| VIRGIN THREE" tvg-logo="http://shakeiptv.com:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWVxFgCqkV_CmLZUi2nGl5Bva5RRzHRb_YuPyPse3szzNwcQWubZoAwm4JCPNZ6J2QA7Z-FMjfF7CGY9EYi0yb82kQwgFRYOcas0BglOOkXnBBntyP_-pwAYqw5P8ZM7jXo.png" group-title="UK Entertainment",|UK| VIRGIN THREE
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uC0R2y_HCa2m_-S83eiYqZf7lmzJBs1pDhnLclR3MKaz/ts
+#EXTINF:-1 xui-id="8011" tvg-id="" tvg-name="|UK| SKY CRIME" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1348.1569942046.png" group-title="UK Entertainment",|UK| SKY CRIME
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uC0R2y_HCa2m_-S83eiYqZefooyBwFd2wyheGmFszNXq/ts
+#EXTINF:-1 xui-id="8012" tvg-id="" tvg-name="|UK| LIFETIME" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qiNfRQbR6uAHgBrFLBPX8uNFWA7HFqXIC4YIx1eCWcZHw.png" group-title="UK Entertainment",|UK| LIFETIME
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uC0R2y_HCa2m_-S83eiYqZd9iWUNGotmM5oZo8fVjYb-/ts
+#EXTINF:-1 xui-id="8013" tvg-id="" tvg-name="|UK| QUEST" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qg5K3CVB3JqQ0LdjDLE2jTeqHWX7GxrU3UsJQKqXYOsUQ.png" group-title="UK Entertainment",|UK| QUEST
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uC0R2y_HCa2m_-S83eiYqZckNb6NutgnYDEt0r-g4MLt/ts
+#EXTINF:-1 xui-id="8014" tvg-id="" tvg-name="|UK| PICK TV" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qiVuhPjdqgtQ0RRtziF1d03vA_YcwFyoplE_nhUJSlmAA.png" group-title="UK Entertainment",|UK| PICK TV
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uC0R2y_HCa2m_-S83eiYqZcczwhA78qncpkT_pHwyjYa/ts
+#EXTINF:-1 xui-id="8015" tvg-id="" tvg-name="|UK| REALLY" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qgbOAXp7_gthAvQCUxHKPDOe0dDXz4XaUEiEYhpd2TaaQ.png" group-title="UK Entertainment",|UK| REALLY
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uC0R2y_HCa2m_-S83eiYqZfHhzAfoTtujJPN7KRI9dlg/ts
+#EXTINF:-1 xui-id="8016" tvg-id="" tvg-name="|UK| HOME" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhI4EB-A94xXzcYUyTZY3kcdKtu4bZq5QifyNsMdNrR7g.png" group-title="UK Entertainment",|UK| HOME
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uC0R2y_HCa2m_-S83eiYqZfhub-wDkThjLyog2mEfq75/ts
+#EXTINF:-1 xui-id="8017" tvg-id="" tvg-name="|UK| FOOD NETWORK" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qj-fg8rew6hMLK6Qq8G4Jg_Hu74kLiKkrXNPgTgcpSIUQ.png" group-title="UK Entertainment",|UK| FOOD NETWORK
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uC0R2y_HCa2m_-S83eiYqZe1dXyrSn2IM4Xf6xhlkniP/ts
+#EXTINF:-1 xui-id="8018" tvg-id="" tvg-name="|UK| FOOD NETWORK +1" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qj-fg8rew6hMLK6Qq8G4Jg_8aHKLeJmwVB3wkDb9WNQ4A.png" group-title="UK Entertainment",|UK| FOOD NETWORK +1
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uC0R2y_HCa2m_-S83eiYqZdaSmOKK4fufLhAg9jmVaeD/ts
+#EXTINF:-1 xui-id="8019" tvg-id="" tvg-name="|UK| HORSE & COUNTRY" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhbQLldyGoASGSsdbG-xzaD0B1-1hA8wwaH6aujhIeIlg.png" group-title="UK Entertainment",|UK| HORSE & COUNTRY
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uC0R2y_HCa2m_-S83eiYqZcH0V2zRXKdGD5n9k7RCjHN/ts
+#EXTINF:-1 xui-id="8020" tvg-id="" tvg-name="|UK| S4C" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qiKVoyI_rV8c02_M8z_94nr.png" group-title="UK Entertainment",|UK| S4C
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uOuDgIt2d7pFq9Erg6ZF7KMaM2RtVYjgIKZ4o8fOdTJ9/ts
+#EXTINF:-1 xui-id="8021" tvg-id="" tvg-name="------- UK Movies -------" tvg-logo="http://shakeiptv.com:8080/images/pW2q9mYhl29ICtcGfxDTxOHMPdUA8N1Bms8GAaIdYGCMpaLGQY-KOYwL4ba7hPsj.png" group-title="UK Movies",------- UK Movies -------
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uOuDgIt2d7pFq9Erg6ZF7KMnR46EU_Qh-M8gkIcWHcDi/ts
+#EXTINF:-1 xui-id="8022" tvg-id="" tvg-name="|UK| SKY CINEMA THRILLER" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qiD5tCxDcANdjsjYFcwmqfkHSXxFYDm4FFAidQDYaP2iKNshC1Vga8kA7NAPagDqRY.png" group-title="UK Movies",|UK| SKY CINEMA THRILLER
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uOuDgIt2d7pFq9Erg6ZF7KP1oqhieZNK5qRSV-l5X0ie/ts
+#EXTINF:-1 xui-id="8023" tvg-id="" tvg-name="|UK| SKY CINEMA SELECT HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qiD5tCxDcANdjsjYFcwmqfkrsYhmCzCndkcB03vC9RZkQ.png" group-title="UK Movies",|UK| SKY CINEMA SELECT HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uOuDgIt2d7pFq9Erg6ZF7KN6kLvNKTacpu17TQCASFqa/ts
+#EXTINF:-1 xui-id="8024" tvg-id="" tvg-name="|UK| SKY CINEMA PREMIERE HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qiD5tCxDcANdjsjYFcwmqfk9ZG3deSJt5ZDL8Wt-gzG1w.png" group-title="UK Movies",|UK| SKY CINEMA PREMIERE HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uOuDgIt2d7pFq9Erg6ZF7KN3c5viv9PJ9F8ipN9THsOM/ts
+#EXTINF:-1 xui-id="8025" tvg-id="" tvg-name="|UK| SKY CINEMA GREATS HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qiD5tCxDcANdjsjYFcwmqfkM0To2qzbKklKKAUNYaD7tQ.png" group-title="UK Movies",|UK| SKY CINEMA GREATS HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uOuDgIt2d7pFq9Erg6ZF7KMSTtoMq1hr4rkuPHWAYvOH/ts
+#EXTINF:-1 xui-id="8026" tvg-id="" tvg-name="|UK| SKY CINEMA FAMILY HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qiD5tCxDcANdjsjYFcwmqfkuMo1C6ZfAigGXizvUHYdGg.png" group-title="UK Movies",|UK| SKY CINEMA FAMILY HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uOuDgIt2d7pFq9Erg6ZF7KOi2GodohuV4a32qSBgzHoT/ts
+#EXTINF:-1 xui-id="8027" tvg-id="" tvg-name="|UK| SKY CINEMA DRAMA HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qiD5tCxDcANdjsjYFcwmqfkOQGUTRt-tJiccLY2zpJBB4eN9To5Phv509tmdN61dn8.png" group-title="UK Movies",|UK| SKY CINEMA DRAMA HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uOuDgIt2d7pFq9Erg6ZF7KOZRUD6WyWsQZl9rws5V2n7/ts
+#EXTINF:-1 xui-id="8028" tvg-id="" tvg-name="|UK| SKY CINEMA COMEDY HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qiD5tCxDcANdjsjYFcwmqfkQH7J3je6OL3kVSwrgKkFYg.png" group-title="UK Movies",|UK| SKY CINEMA COMEDY HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uOuDgIt2d7pFq9Erg6ZF7KP-SLAWccXvcxUv0gHc9ZJJ/ts
+#EXTINF:-1 xui-id="8029" tvg-id="" tvg-name="|UK| SKY CINEMA ACTION HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qiD5tCxDcANdjsjYFcwmqfkw_xKQNj9XDfebC8DqYqTfR_5DwY2_TkNQ58T_SoDTSc.png" group-title="UK Movies",|UK| SKY CINEMA ACTION HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uOuDgIt2d7pFq9Erg6ZF7KNfO4QUAzPEApIUsMoAP3pU/ts
+#EXTINF:-1 xui-id="8030" tvg-id="" tvg-name="|UK| SKY CINEMA ScFi HORROR" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qiD5tCxDcANdjsjYFcwmqfkfjOvg3vsT5GZp7yjQV-AAhl-kqYI2M8yfH2TS0VDfmQ.png" group-title="UK Movies",|UK| SKY CINEMA ScFi HORROR
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uDt3XdWErZAOdY91mXoajsBYC92qPeVjbFmS1Pjd4mDm/ts
+#EXTINF:-1 xui-id="8031" tvg-id="" tvg-name="|UK| SKY CINEMA HITS HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qiD5tCxDcANdjsjYFcwmqfkSRDaVgZn1iCPGYHyDBnPAg.png" group-title="UK Movies",|UK| SKY CINEMA HITS HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uDt3XdWErZAOdY91mXoajsBP8dIfbjv640p3ZtH4DPci/ts
+#EXTINF:-1 xui-id="8032" tvg-id="" tvg-name="|UK| SKY CINEMA ANIMATION HD" tvg-logo="http://shakeiptv.com:8080/images/WkqWl69W5lk7Q0WRu8VDt0QzZDYLM_RTSTPhIGSYeHrGI8zehs2zAqxFr1xM8dMjPaM0NAWUCV0FrLfYlwfPFo1zVlSNwsoxBe1pozwPcTArYUhp6RJz7G6JaFFhNKHt.png" group-title="UK Movies",|UK| SKY CINEMA ANIMATION HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uDt3XdWErZAOdY91mXoajsDAwumDSGHwxAnj_i6VyHVy/ts
+#EXTINF:-1 xui-id="8033" tvg-id="" tvg-name="|UK| TCM" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhRkns5n2BWEfnVZERMRXQw8DNL5RvYkYG5XMi8F8_geA.png" group-title="UK Movies",|UK| TCM
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uDt3XdWErZAOdY91mXoajsAr6T_NzXAJEEOdUsd-Uz6c/ts
+#EXTINF:-1 xui-id="8034" tvg-id="" tvg-name="|UK| FILM 4" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qj7J5vLS1D2djpzmk8Bvz4E.png" group-title="UK Movies",|UK| FILM 4
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uDt3XdWErZAOdY91mXoajsA0AzvwjpLLft2kblL1e4DD/ts
+#EXTINF:-1 xui-id="8035" tvg-id="" tvg-name="|UK| GREAT! MOVIES CLASSIC" tvg-logo="http://shakeiptv.com:8080/images/kpO_L1CxERjOgonnkNAHLYW8TQOhXNp3OP4gSTlPu_D-Djpc3phmbZnA-QmXQfqn-4dud3hNcTpu7UzOYyu4Su9Fdl6-z1ecnY2XCIuprCzCzzAtgvgaP2P0hY15xY72.png" group-title="UK Movies",|UK| GREAT! MOVIES CLASSIC
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uDt3XdWErZAOdY91mXoajsC6SHVO6bQYSSC3_FnP7gI7/ts
+#EXTINF:-1 xui-id="8036" tvg-id="" tvg-name="|UK| DRAMA CHANNEL" tvg-logo="http://shakeiptv.com:8080/images/TFu1ILtB3QdNR5sxcG9dW6fPN_z6t9posxXdECBcwwXBODbHpMv2Hs-42a33-BDCSrrYdFpLIb9mVaX5-YuhqT-lgjK6uQ5UdY7kpdXGcW4.jpg" group-title="UK Movies",|UK| DRAMA CHANNEL
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uDt3XdWErZAOdY91mXoajsBmymvQywcjwjKkKeJtT1y0/ts
+#EXTINF:-1 xui-id="8037" tvg-id="" tvg-name="|UK| SONY CHANNEL" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhKfXEuAEM2bDNTnyiyY5wKKtlTCta1uKVkerzk_w6CaQ.png" group-title="UK Movies",|UK| SONY CHANNEL
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uDt3XdWErZAOdY91mXoajsCVQqnMvWLh6OKTY0DrjIDU/ts
+#EXTINF:-1 xui-id="8038" tvg-id="" tvg-name="|UK| CBS DRAMA" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qgyXUNp3sJYm0r9dSsrKwhRp8Cs_qRwcKyg5rmhILE8QA.png" group-title="UK Movies",|UK| CBS DRAMA
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uDt3XdWErZAOdY91mXoajsBOXCHmia8hCrEinzq2Fou4/ts
+#EXTINF:-1 xui-id="8039" tvg-id="" tvg-name="|UK| LEGEND" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qjbR0VtG-qoqIjNOakd-3GqNxsblp21VQAwGxiS_YdZCg.png" group-title="UK Movies",|UK| LEGEND
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uDt3XdWErZAOdY91mXoajsD65rgb29Tzk87dRfJm59w5/ts
+#EXTINF:-1 xui-id="8040" tvg-id="" tvg-name="|UK| SONY MOVIES ACTION" tvg-logo="http://shakeiptv.com:8080/images/TFu1ILtB3QdNR5sxcG9dW89No-FVX4QFgPbnC5DBi4DJlHT0KtY_WtSSBTLWX__OQJp4uwWmtVpv5LkG7S11mUDvqsDd1eMvZAFbxTAzRA88giXqcxMwd0slxdU0-UDLebj85_NZPPWJfudUjdo7kQ.png" group-title="UK Movies",|UK| SONY MOVIES ACTION
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uNSGEBXy3Bm9O4vIey5kCbjIEU_zOJZf3PjceIZ6wYue/ts
+#EXTINF:-1 xui-id="8041" tvg-id="" tvg-name="|UK| SONY MOVIES ACTION +1" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qgfpdwq7JafhHi_Q5g-PAiN3Hb4hUk--luiww7kK10ohQ.png" group-title="UK Movies",|UK| SONY MOVIES ACTION +1
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uNSGEBXy3Bm9O4vIey5kCbjzeDNRE3yOT-f7LKuw0LzM/ts
+#EXTINF:-1 xui-id="8042" tvg-id="" tvg-name="|UK| HORROR XTRA" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhNSyfexZKPQHrGirwyYfn6depf5RPKoEBKPxQ6xggLUQ.png" group-title="UK Movies",|UK| HORROR XTRA
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uNSGEBXy3Bm9O4vIey5kCbhLRLjbk8jLeKXCVrVD4qoH/ts
+#EXTINF:-1 xui-id="8043" tvg-id="" tvg-name="|UK| TALKING PICTURES TV" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qgln_wDCkzERwPREcnK1ugmeLYQ2IGSfar1v6JsHhWhfA.png" group-title="UK Movies",|UK| TALKING PICTURES TV
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uNSGEBXy3Bm9O4vIey5kCbgtpZsM-V8_uhtyM68ELsFo/ts
+#EXTINF:-1 xui-id="8044" tvg-id="" tvg-name="------- UK Music -------" tvg-logo="http://shakeiptv.com:8080/images/pW2q9mYhl29ICtcGfxDTxOHMPdUA8N1Bms8GAaIdYGCMpaLGQY-KOYwL4ba7hPsj.png" group-title="UK Movies",------- UK Music -------
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uNSGEBXy3Bm9O4vIey5kCbhIJ-zNy7U8j7DF9xZW4VD1/ts
+#EXTINF:-1 xui-id="8045" tvg-id="" tvg-name="|UK| MTV" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qgXg8bwMGXkZF66i41mrLuL.png" group-title="UK Movies",|UK| MTV
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uNSGEBXy3Bm9O4vIey5kCbisW5_gKG4JVegKXy8HDyjX/ts
+#EXTINF:-1 xui-id="8046" tvg-id="" tvg-name="|UK| MTV DANCE" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qjeoikehd-GjijqQi79XxLjGYtAEMYywFUnnX4ROLikBQ.png" group-title="UK Movies",|UK| MTV DANCE
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uNSGEBXy3Bm9O4vIey5kCbioq_QBqsMtqoZUJdriQM87/ts
+#EXTINF:-1 xui-id="8047" tvg-id="" tvg-name="|UK| MTV 80s" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qgJj5ai1X_1pT27OH1U1EfXx92BL9Ic8NMNZ10dNam2kQ.png" group-title="UK Movies",|UK| MTV 80s
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uNSGEBXy3Bm9O4vIey5kCbjem-JnVTpZDxpfAmyRZkIW/ts
+#EXTINF:-1 xui-id="8048" tvg-id="" tvg-name="|UK| MTV MUSIC" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qgjCyPbmyOW_pGO_SoFNGTLARiGkrdh4bPP51EXj8_smQ.png" group-title="UK Movies",|UK| MTV MUSIC
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uNSGEBXy3Bm9O4vIey5kCbgHOBlLi7NWmbL64ce-T0ee/ts
+#EXTINF:-1 xui-id="8049" tvg-id="" tvg-name="|UK| MTV HITS" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qgcBatejEj5h-SqENEq_M2_dxpW31RNiELaufYd7Hb7uw.png" group-title="UK Movies",|UK| MTV HITS
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uNSGEBXy3Bm9O4vIey5kCbgzmzjWDlDTbbnwShE25hK9/ts
+#EXTINF:-1 xui-id="8050" tvg-id="" tvg-name="|UK| MTV 90s" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qg54EHgE-qG-BzmoKLvAqtIPOCqCxUu9GdvqS_ND60cHg.png" group-title="UK Movies",|UK| MTV 90s
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uB-f2krqxHMzdY7Z8eg9rd53T7bUivmz08dPeviNqD8f/ts
+#EXTINF:-1 xui-id="8051" tvg-id="" tvg-name="|UK| VH1" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qjGmODJzyUJ4QWYc8xVVBqnxcZ-aO6V7YYmj-Z6bDsAxA.png" group-title="UK Movies",|UK| VH1
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uB-f2krqxHMzdY7Z8eg9rd4drESK43_K-4MigJiTF6Qi/ts
+#EXTINF:-1 xui-id="8052" tvg-id="" tvg-name="|UK| CHANNEL AKA" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qjzZ0R6t3GFCyrTOzdxE4fE.png" group-title="UK Movies",|UK| CHANNEL AKA
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uB-f2krqxHMzdY7Z8eg9rd7XBcgsTt4fY5Ep1CjtNNdf/ts
+#EXTINF:-1 xui-id="8053" tvg-id="" tvg-name="|UK| E4 EXTRA" tvg-logo="http://shakeiptv.com:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXwwVePPTgXgCWb_rUsjH934jApneXlduPXrRfpJVizRxhDUymKBluGlQF1VnVf4Qo.png" group-title="UK Movies",|UK| E4 EXTRA
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uB-f2krqxHMzdY7Z8eg9rd5N-IRDugHCDF0EjhQY6ro7/ts
+#EXTINF:-1 xui-id="8054" tvg-id="" tvg-name="|UK| NOW 70s" tvg-logo="http://shakeiptv.com:8080/images/TFu1ILtB3QdNR5sxcG9dW89No-FVX4QFgPbnC5DBi4DJlHT0KtY_WtSSBTLWX__OQJp4uwWmtVpv5LkG7S11mW4tmbkTrmcTuNr_2fFpjWKRVZUSa1s-Ucl7ejSwSF2A.png" group-title="UK Movies",|UK| NOW 70s
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uB-f2krqxHMzdY7Z8eg9rd5MVpR5n-LFKqS4sW6svLmx/ts
+#EXTINF:-1 xui-id="8055" tvg-id="" tvg-name="|UK| NOW 80s" tvg-logo="http://shakeiptv.com:8080/images/fBxN9BtTunnjXYPwsuhHTi-sa-1hjGvhVlp5RK-Ij-G0QtbgDfIFZoXf6vPDVcOloTMqib_xx7yeI8Bm5UYFvNEoYwBKjZXZ1EzPXiVqA2Y.png" group-title="UK Movies",|UK| NOW 80s
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uB-f2krqxHMzdY7Z8eg9rd6NxceSuexNXZyQvYmOmZMW/ts
+#EXTINF:-1 xui-id="8056" tvg-id="" tvg-name="|UK| NOW 90s" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qi6_neV9VOo35hrD9vGVFGxAQDNsYUtU9hAOupgG6yszw.png" group-title="UK Movies",|UK| NOW 90s
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uB-f2krqxHMzdY7Z8eg9rd4vJfjePTUXnmUL7KnOQAYd/ts
+#EXTINF:-1 xui-id="8057" tvg-id="" tvg-name="------- UK Documentaries -------" tvg-logo="http://shakeiptv.com:8080/images/pW2q9mYhl29ICtcGfxDTxOHMPdUA8N1Bms8GAaIdYGCMpaLGQY-KOYwL4ba7hPsj.png" group-title="UK Documentaries",------- UK Documentaries -------
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uB-f2krqxHMzdY7Z8eg9rd6jbLLRgzRoJKufGgm8vOq2/ts
+#EXTINF:-1 xui-id="8058" tvg-id="" tvg-name="|UK| SKY NATURE HD" tvg-logo="http://shakeiptv.com:8080/images/6dnMfUa6uTYpds8UnrcKzv1jOqlSKEFWDGO0XCpfl1Ei2S3cK1EUALhQ1L3D1MrWsqyVHXbapdfpIcDUHOIgKXSI9OjXZXXcZWa3KOumWBAtbcpL2SWXJgENNx8Jfof15bL1RHLKQI4EfAZHwt0B_akJUkPYPFEVYnpZXf9XHyo.jpg" group-title="UK Documentaries",|UK| SKY NATURE HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uB-f2krqxHMzdY7Z8eg9rd76qXg4fYJx5-DFPPXWJVVl/ts
+#EXTINF:-1 xui-id="8059" tvg-id="" tvg-name="|UK| SKY DOCUMENTARIES HD" tvg-logo="http://shakeiptv.com:8080/images/2eCq6RKxkIzejIYxrapJhOUTtL3sKMXh7dooUgBLkhnqVZKUrF_jBdy1yWvMUHUs4glqxxzPslsWI8GSag8P5oHR-O20YG4xPeRQbuHuxcp9_ex6HoPmA5gppSR5GxrH.png" group-title="UK Documentaries",|UK| SKY DOCUMENTARIES HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uB-f2krqxHMzdY7Z8eg9rd7bilfBkkOi6zDWm7c-yK4H/ts
+#EXTINF:-1 xui-id="8060" tvg-id="" tvg-name="|UK| DISCOVERY CHANNEL" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qjBOo8AGmPnH0g4VYRZxRzlqMW7MSfv_sSdJiZvtr9y7g.png" group-title="UK Documentaries",|UK| DISCOVERY CHANNEL
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uBVAi6lPkJv0qvqEUxlAU9BEwQdgBBStRqV6Kw-ne_DM/ts
+#EXTINF:-1 xui-id="8061" tvg-id="" tvg-name="|UK| CRIME & INVESTIGATION" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qjb7u92PZpHcUtmWfuaJM_NYmbzpulN1h0ZYV2wni1BpgBPkAbnmz7BTcYL7OYQfvg.png" group-title="UK Documentaries",|UK| CRIME & INVESTIGATION
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uBVAi6lPkJv0qvqEUxlAU9CAhX3l0nA5vAu6A6tWNen7/ts
+#EXTINF:-1 xui-id="8062" tvg-id="" tvg-name="|UK| DISCOVERY INVESTIGATION" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhOMJ6Zof9jLzhdGBXhuTwGIS5tgGfjW3llTb_zqSNVPHB0MOUsiqyZzPdWnQhab7A.png" group-title="UK Documentaries",|UK| DISCOVERY INVESTIGATION
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uBVAi6lPkJv0qvqEUxlAU9CaHYvO2VfYv0Oh_q5-cA4g/ts
+#EXTINF:-1 xui-id="8063" tvg-id="" tvg-name="|UK| NATIONAL GEOGRAPHIC" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qiCLKn0qwcoNUAWzCk8FRDeXhxeYhFJfe6nE9f6B5iZ3A.png" group-title="UK Documentaries",|UK| NATIONAL GEOGRAPHIC
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uBVAi6lPkJv0qvqEUxlAU9Be-1Qcy58x0jqvLXcOR6CZ/ts
+#EXTINF:-1 xui-id="8064" tvg-id="" tvg-name="|UK| NAT GEO WILD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qiNloURZAHsRbOHHo_h8WRkRJ3HBO2V9BeHGfGadhc_iw.png" group-title="UK Documentaries",|UK| NAT GEO WILD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uBVAi6lPkJv0qvqEUxlAU9AQeHohflg_vBJbnKnrhFuX/ts
+#EXTINF:-1 xui-id="8065" tvg-id="" tvg-name="|UK| SKY HISTORY" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qg6U4yR8YHKq8epb4d3kel9k1sEGh-QVRwNb4F1CitHhw.png" group-title="UK Documentaries",|UK| SKY HISTORY
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uBVAi6lPkJv0qvqEUxlAU9DLiBrt45Wl6Gzl0LiDQeey/ts
+#EXTINF:-1 xui-id="8066" tvg-id="" tvg-name="|UK| H2" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qgN8HeGRgklfrn7SYyhyszoAgtD6J3XZvjg8eBxmMQUPw.png" group-title="UK Documentaries",|UK| H2
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uBVAi6lPkJv0qvqEUxlAU9DOettM8-KCysqxFXSeBOMG/ts
+#EXTINF:-1 xui-id="8067" tvg-id="" tvg-name="|UK| DISCOVERY HISTORY" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qiQBW7vJI_WSSGQ1hlJdfOmpr2_WVuowen8e4rnjj-iyw.png" group-title="UK Documentaries",|UK| DISCOVERY HISTORY
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uBVAi6lPkJv0qvqEUxlAU9AiHOHXLJYKudcYFncEpMNw/ts
+#EXTINF:-1 xui-id="8068" tvg-id="" tvg-name="|UK| DISCOVERY TURBO" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qiLWpl5dbbVBsfJ3RKUgsS81yQGvrbrbYxJ0PhDX4Be4g.png" group-title="UK Documentaries",|UK| DISCOVERY TURBO
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uBVAi6lPkJv0qvqEUxlAU9CXyh4fmFN26vsycR2f_Q5k/ts
+#EXTINF:-1 xui-id="8069" tvg-id="" tvg-name="|UK| DISCOVERY SCIENCE" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qjAFRS7MRQbgpjGBXUEwFELZtymIEgDh7unyaYR8J0-6_u_Lvby07iO3xq2_cnaKjw.png" group-title="UK Documentaries",|UK| DISCOVERY SCIENCE
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uBVAi6lPkJv0qvqEUxlAU9D_lB4qVQePSAArkgjFSNJ_/ts
+#EXTINF:-1 xui-id="8070" tvg-id="" tvg-name="|UK| DMAX UK" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhffTLWlUqua2Fq0B9u79uAVruMoALEDXkFfgokntHqAQ.png" group-title="UK Documentaries",|UK| DMAX UK
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uCjgF1Mq_pEdgEH7DqFHwxIIBllcLCfDEXVdwCeN1zPI/ts
+#EXTINF:-1 xui-id="8071" tvg-id="" tvg-name="|UK| ANIMAL PLANET" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qj_l4fSopovXISnmM2ctuDiEhafvlf9bZuc-gMdbLQiJQ.png" group-title="UK Documentaries",|UK| ANIMAL PLANET
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uCjgF1Mq_pEdgEH7DqFHwxImXKI4GmpCL-uogI1JUT_f/ts
+#EXTINF:-1 xui-id="8072" tvg-id="" tvg-name="|UK| CHALLENGE TV" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qgNNUTtC_--0hkaiFyCjZQiN59_kfzPo8ES-F_QAqNENw.png" group-title="UK Documentaries",|UK| CHALLENGE TV
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uCjgF1Mq_pEdgEH7DqFHwxJbsa8ZbrGSuF7yvtGHkXUf/ts
+#EXTINF:-1 xui-id="8073" tvg-id="" tvg-name="|UK| BLAZE" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qgDH0sXY6NIRYhpbmQOVoITSTu09RXW0EO3frJoWeRIXg.png" group-title="UK Documentaries",|UK| BLAZE
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uCjgF1Mq_pEdgEH7DqFHwxKzupZ95B-XN8jQwzKWdT0i/ts
+#EXTINF:-1 xui-id="8074" tvg-id="" tvg-name="|UK| PBS AMERICA" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qiAWM-rIAUN2md0FcZrCF5GBsNmzJdBmRX8ic5H2eIrUQ.png" group-title="UK Documentaries",|UK| PBS AMERICA
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uCjgF1Mq_pEdgEH7DqFHwxJDZfB2373P30SZU7rEIms3/ts
+#EXTINF:-1 xui-id="8075" tvg-id="" tvg-name="------- UK Kids -------" tvg-logo="http://shakeiptv.com:8080/images/pW2q9mYhl29ICtcGfxDTxOHMPdUA8N1Bms8GAaIdYGCMpaLGQY-KOYwL4ba7hPsj.png" group-title="UK Kids",------- UK Kids -------
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uCjgF1Mq_pEdgEH7DqFHwxIV8-zr67BN8z55BRYjegwR/ts
+#EXTINF:-1 xui-id="8076" tvg-id="" tvg-name="|UK| CBEEBIES" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qgDkuGP3vcpD6IehNycFprt6UvALP7iHdu28BlZJ3EFpA.png" group-title="UK Kids",|UK| CBEEBIES
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uCjgF1Mq_pEdgEH7DqFHwxJzyOQr6Oyw3p0C9pwvgH15/ts
+#EXTINF:-1 xui-id="8077" tvg-id="" tvg-name="|UK| BOOMERANG" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhikFAIEtAr5N9-SDyMJAk4lwgAk_g6YmDDVIR4szQNrw.png" group-title="UK Kids",|UK| BOOMERANG
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uCjgF1Mq_pEdgEH7DqFHwxJGL5Y9MPeWz5nHlf5kDEiF/ts
+#EXTINF:-1 xui-id="8078" tvg-id="" tvg-name="|UK| NICKTOONS" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qi2-DZr6ggAlQNpALVOy3QifSh9X-wApChTV8EC9G2LGg.png" group-title="UK Kids",|UK| NICKTOONS
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uCjgF1Mq_pEdgEH7DqFHwxK-h8ALNDPUZp2xjZ1DjbUQ/ts
+#EXTINF:-1 xui-id="8079" tvg-id="" tvg-name="|UK| NICKELODEON" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qitMCvLCgfNfT3o1SPVpIK3tAawjJUNSZWan0aqrRUP4w.png" group-title="UK Kids",|UK| NICKELODEON
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uCjgF1Mq_pEdgEH7DqFHwxIHSNTqlM-ISvPFhTeexSv7/ts
+#EXTINF:-1 xui-id="8080" tvg-id="" tvg-name="|UK| NICK JUNIOR" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qiNvdGd9nudeDn4ybiuQck1mzxYDUtp3B226RKnSFZt6g.png" group-title="UK Kids",|UK| NICK JUNIOR
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uKsr9OfItkkB5erUGSudw_qTnGfw1M3eqZUhdhcUZaQN/ts
+#EXTINF:-1 xui-id="8081" tvg-id="" tvg-name="|UK| NICKJR.TOO" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qiNvdGd9nudeDn4ybiuQck1mzxYDUtp3B226RKnSFZt6g.png" group-title="UK Kids",|UK| NICKJR.TOO
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uKsr9OfItkkB5erUGSudw_rrfFG_oTAfvbX0j4fz5II2/ts
+#EXTINF:-1 xui-id="8082" tvg-id="" tvg-name="|UK| CARTOON NETWORK" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhg8VmjoPD9AohnwbmqNfrQHPaNZofUJZM13-AdZHTvrw.png" group-title="UK Kids",|UK| CARTOON NETWORK
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uKsr9OfItkkB5erUGSudw_qAwdxmi2tqQJWWH7eueuuT/ts
+#EXTINF:-1 xui-id="8083" tvg-id="" tvg-name="|UK| DISNEY CHANNEL" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qjDKne05knjSx1-fSnwvDMd59bRON6aW3KyH0sf4pSogg.png" group-title="UK Kids",|UK| DISNEY CHANNEL
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uKsr9OfItkkB5erUGSudw_qotu8oI64MqOgpJkKb1fj-/ts
+#EXTINF:-1 xui-id="8084" tvg-id="" tvg-name="|UK| DISNEY XD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qj7MgZIwIIQ0Ggyv_SInEHJp3tOJXTBxDy9RmHGzX2gaw.png" group-title="UK Kids",|UK| DISNEY XD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uKsr9OfItkkB5erUGSudw_oFvIIN3fkC3a38zuz8vYKz/ts
+#EXTINF:-1 xui-id="8085" tvg-id="" tvg-name="|UK| BABY TV" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qjyZSouZRTB5FQE8_iP9M9xUFwcaPVelN3lTU08vCunhw.png" group-title="UK Kids",|UK| BABY TV
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uKsr9OfItkkB5erUGSudw_qc_zRI3-cb5317xYQnIit0/ts
+#EXTINF:-1 xui-id="8086" tvg-id="" tvg-name="|UK| RTE JUNIOR" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qiWAuYH2TekBalQTWPTQrOGCT9Zhg-D1KQHp5S6pLM3Vw.png" group-title="UK Kids",|UK| RTE JUNIOR
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uKsr9OfItkkB5erUGSudw_qql9jRepwaPX5RLUsx4N12/ts
+#EXTINF:-1 xui-id="8087" tvg-id="" tvg-name="|UK| POP" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qgkTKhdzzholkmSgsLlSM8B.png" group-title="UK Kids",|UK| POP
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uKsr9OfItkkB5erUGSudw_rAht8Y1OaZLm5FANOA68he/ts
+#EXTINF:-1 xui-id="8088" tvg-id="" tvg-name="|UK| TINY POP" tvg-logo="http://shakeiptv.com:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWvSziMd-AReSVYQLdZyKxN9x85QmDCXAlhIBg6df0VcjesRx1Cx2s7nRFYwoi9KeY.png" group-title="UK Kids",|UK| TINY POP
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uKsr9OfItkkB5erUGSudw_ocrW0A26uUI-DGEbT3M1Gn/ts
+#EXTINF:-1 xui-id="8089" tvg-id="" tvg-name="------- UK News -------" tvg-logo="" group-title="UK News",------- UK News -------
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uKsr9OfItkkB5erUGSudw_p-YpWgG0fXQRjsk-N4h8L4/ts
+#EXTINF:-1 xui-id="8090" tvg-id="" tvg-name="|UK| SKY NEWS HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qi8jCX1xDNOCKA3bEkM5EIZ7P5PmrNMMmA9FOWFseWzlw.png" group-title="UK News",|UK| SKY NEWS HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uCCGqVFTFuHEK26IpHQvn9xiGb7w6TiTEbK0GKbEHDtX/ts
+#EXTINF:-1 xui-id="8091" tvg-id="" tvg-name="|UK| RTE NEWS NOW" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qimKfaB60tZ97cERqtLDc69s_vqtVRY2-DBJ4u_ajC--Q.png" group-title="UK News",|UK| RTE NEWS NOW
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uCCGqVFTFuHEK26IpHQvn9wma_m34M3WwZDIR8wCbihY/ts
+#EXTINF:-1 xui-id="8092" tvg-id="" tvg-name="|UK| BBC NEWS" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qg2RqEysPIwXW-TOXpqCiLjM-q-jX9wDTJPNWOmLL5VWg.png" group-title="UK News",|UK| BBC NEWS
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uCCGqVFTFuHEK26IpHQvn9wU10x8SgBsuk2oVNgl8HnF/ts
+#EXTINF:-1 xui-id="8093" tvg-id="" tvg-name="|UK| GB NEWS FHD" tvg-logo="http://shakeiptv.com:8080/images/XAIH2dylcr7hktAwPozT30oOCo8kKbZGfWfx2j8jMp6QPqTYtZvks4sbOP-xPF3nHNqWzAEVb7OXSAaMnqO-gQc7Cz1ZcBnD0m-zDIeERInXwTPR-iukE07ZE70YAuEO.png" group-title="UK News",|UK| GB NEWS FHD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uCCGqVFTFuHEK26IpHQvn9yHEvs11z6YwDL_2AGtFieH/ts
+#EXTINF:-1 xui-id="8094" tvg-id="" tvg-name="|UK| TALK TV FHD" tvg-logo="http://shakeiptv.com:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWVh5sm-hIoMHmlR-WQYvm2E-jbxLkjU18fQobMpk-MJPg.png" group-title="UK News",|UK| TALK TV FHD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uCCGqVFTFuHEK26IpHQvn9xDbPE7dzRbVHo5k1y1O3Ao/ts
+#EXTINF:-1 xui-id="8095" tvg-id="" tvg-name="|UK| EURONEWS" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qheFwiItSAcMyIrzJIR_3p-QrwNmkIcjaco0jvprYQNog.png" group-title="UK News",|UK| EURONEWS
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uCCGqVFTFuHEK26IpHQvn9z8pbxk58U0L12Pj2T7m-xJ/ts
+#EXTINF:-1 xui-id="8096" tvg-id="" tvg-name="|UK| FRANCE 24 ENGLISH" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qiSMAxGcWFViS5v4tGR3pvadYO4dkNJmNv_cihy4_74gA.png" group-title="UK News",|UK| FRANCE 24 ENGLISH
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uCCGqVFTFuHEK26IpHQvn9xcGte1hidjVy6aO1GksTlr/ts
+#EXTINF:-1 xui-id="8097" tvg-id="" tvg-name="|UK| ALJAZEERA NEWS ENGLISH" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qjda7DbyFXd96uSaHfMP8LT_Dr0NezdMJCRdKq20tsS7w.png" group-title="UK News",|UK| ALJAZEERA NEWS ENGLISH
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uCCGqVFTFuHEK26IpHQvn9wmVIFijNwLK9X905NNBoNn/ts
+#EXTINF:-1 xui-id="8098" tvg-id="" tvg-name="|UK| BBC WORLD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qiSSMHCewGO0Bg4VyAWdVRQhGi_SiZEqTC9GT39wo_few.png" group-title="UK News",|UK| BBC WORLD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uCCGqVFTFuHEK26IpHQvn9wv8ji9x3Lf2iI3aHmFsLKq/ts
+#EXTINF:-1 xui-id="8099" tvg-id="" tvg-name="|UK| CNN INTERNATIONAL" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qj9QCTomhf8qJ-u9tS_Rbhp0FVdRHsq_rVgkdPR7oEbZ9xJA0FT5ntMGIz-PhVNaJM.png" group-title="UK News",|UK| CNN INTERNATIONAL
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uCCGqVFTFuHEK26IpHQvn9y0UqwIGGgziTi5koR7Yd7N/ts
+#EXTINF:-1 xui-id="8100" tvg-id="" tvg-name="|UK| NHK WORLD HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhx7vnq0L3RuZ-TXYCtfh1XvIuIznQeqgvGtd78qImMjw.png" group-title="UK News",|UK| NHK WORLD HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uEgiAKvLykRqADtGPMtTtcfyd7_2ms1JUUeWL6dZ128j/ts
+#EXTINF:-1 xui-id="8101" tvg-id="" tvg-name="------- UK Asian -------" tvg-logo="http://shakeiptv.com:8080/images/pW2q9mYhl29ICtcGfxDTxOHMPdUA8N1Bms8GAaIdYGCMpaLGQY-KOYwL4ba7hPsj.png" group-title="UK Asian",------- UK Asian -------
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uEgiAKvLykRqADtGPMtTtceyAdk48tTlnzQLtLnxby1f/ts
+#EXTINF:-1 xui-id="8102" tvg-id="" tvg-name="|UK| ZING UK" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qiWaWkSAFyP-vSulSEuHuhKD_DolpQhGpZSPkIBSeprgg.png" group-title="UK Asian",|UK| ZING UK
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uEgiAKvLykRqADtGPMtTtcd3adw0b3GsW9F8-uBBBLhy/ts
+#EXTINF:-1 xui-id="8103" tvg-id="" tvg-name="|UK| COLORS" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qh0XiFcDpFxw2qWLJV7bvlynmcEtQish3zMt1tIU19AOQ.png" group-title="UK Asian",|UK| COLORS
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uEgiAKvLykRqADtGPMtTtceis04lUSxoSLfooEFMaWSw/ts
+#EXTINF:-1 xui-id="8104" tvg-id="" tvg-name="|UK| ZEE CINEMA UK" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhOvu9AwHM4tCtAx5oQQ5pgkBw4idftxg2jMHK-2-vVOA.png" group-title="UK Asian",|UK| ZEE CINEMA UK
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uEgiAKvLykRqADtGPMtTtcfbWpY1sDTnViNwfwiSqpg_/ts
+#EXTINF:-1 xui-id="8105" tvg-id="" tvg-name="|UK| UTSAV GOLD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qgssnOBbCIteOkaiJ78_AwBxrtjJ2mczmgaaXK9AIKL1g.png" group-title="UK Asian",|UK| UTSAV GOLD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uEgiAKvLykRqADtGPMtTtceNjwKxYYNCLmFh9nJ_JJ2O/ts
+#EXTINF:-1 xui-id="8106" tvg-id="" tvg-name="|UK| UTSAV PLUS" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qg2gdUNNzrKwGbIRCu7aUT2bU4-W21F8vH1vEJiO9EJXA.png" group-title="UK Asian",|UK| UTSAV PLUS
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uEgiAKvLykRqADtGPMtTtcfjs9hwe_Wn58aQG4ne3VoU/ts
+#EXTINF:-1 xui-id="8107" tvg-id="" tvg-name="|UK| STAR BHARAT" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qi4FlMgklKvJA-CYzgH5AOy_3nw_1zRk5QdLYwCZH_YBQ.jpg" group-title="UK Asian",|UK| STAR BHARAT
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uEgiAKvLykRqADtGPMtTtceXaAiyEWW3zVeuEK6ju0L4/ts
+#EXTINF:-1 xui-id="8108" tvg-id="" tvg-name="|UK| B4U MUSIC" tvg-logo="http://shakeiptv.com:8080/images/a-O10ji1j8j49LyVpXdIJcNm7psI11zlhcRha0ZRnSreIz1hYr9wR9iRT59yIslS7NrCivjmFW3CaVejYDpHng.jpg" group-title="UK Asian",|UK| B4U MUSIC
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uEgiAKvLykRqADtGPMtTtcdXSiHdvQyGZY9qSHnEC_o3/ts
+#EXTINF:-1 xui-id="8109" tvg-id="" tvg-name="|UK| B4U MOVIES" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qi8tWHfOBXbTSCYo1R9_Rc8Xv46f4Agz-rpAE2MX3hinQ.png" group-title="UK Asian",|UK| B4U MOVIES
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uEgiAKvLykRqADtGPMtTtcdOCPYp56o6d4o_MzYcmXDa/ts
+#EXTINF:-1 xui-id="8110" tvg-id="" tvg-name="|UK| B4U PLUS" tvg-logo="http://cdn1.nettv4u.com/115x100/B4u_plus.jpg" group-title="UK Asian",|UK| B4U PLUS
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uIt2VJrzjGaVhTET-ph1qxzOlHlYgSfAXgF5xAFhx-C1/ts
+#EXTINF:-1 xui-id="8111" tvg-id="" tvg-name="|UK| ZEE TV UK" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qjySJ8H9NA8gS1WSZ_8Sb0372Q-us1SwZ99epA-SISTLQ.png" group-title="UK Asian",|UK| ZEE TV UK
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uIt2VJrzjGaVhTET-ph1qxx8leZ-E7p0FQv1bxy-Eieq/ts
+#EXTINF:-1 xui-id="8112" tvg-id="" tvg-name="|UK| SONY TV UK" tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0009/0897/brand.gif?itok=mclSgXjH" group-title="UK Asian",|UK| SONY TV UK
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uIt2VJrzjGaVhTET-ph1qxzRslz76uyBJdw3UqiMh6ee/ts
+#EXTINF:-1 xui-id="8113" tvg-id="" tvg-name="|UK| SONY SAB" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhdSuuJAbuhmuSefJCE8wsqY7RAFPHDaLFBl8-KVYwb3g.png" group-title="UK Asian",|UK| SONY SAB
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uIt2VJrzjGaVhTET-ph1qxwunhMzGsropaAnuvGi6QgL/ts
+#EXTINF:-1 xui-id="8114" tvg-id="" tvg-name="|UK| SONY MAX 2" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qj1BZaGK1j73Cwq_rgMeH0L0utLDn9AnZNvJK87XFXv6w.png" group-title="UK Asian",|UK| SONY MAX 2
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uIt2VJrzjGaVhTET-ph1qxyXbjTf7M_6aAWYeP8d9VK_/ts
+#EXTINF:-1 xui-id="8115" tvg-id="" tvg-name="|UK| ARY DIGITAL UK" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qgWPWh6bYE4VeC225G2FRsYRdFzO4FTA_hT_KFOggRH8Q.png" group-title="UK Asian",|UK| ARY DIGITAL UK
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uIt2VJrzjGaVhTET-ph1qxzJhCYzfqPqmmxgXbt9kUsA/ts
+#EXTINF:-1 xui-id="8116" tvg-id="" tvg-name="|UK| COLORS RISHTEY" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qi7vnp71zS0FzzaxLXlJmMzvxKCIokbZ_msTO6DzkzYyw.png" group-title="UK Asian",|UK| COLORS RISHTEY
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uIt2VJrzjGaVhTET-ph1qxw9IfliWlKhqn_1zCfRMg20/ts
+#EXTINF:-1 xui-id="8117" tvg-id="" tvg-name="|UK| BRIT MUSLIM" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhXDwJJxKXOooMUOCo6VyodUYeNqH5GjtjwCCoKSMaT3w.png" group-title="UK Asian",|UK| BRIT MUSLIM
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uIt2VJrzjGaVhTET-ph1qxzWNeYvQE-f1VJoCNwJTYrU/ts
+#EXTINF:-1 xui-id="8118" tvg-id="" tvg-name="|UK| CHANNELS 24" tvg-logo="" group-title="UK Asian",|UK| CHANNELS 24
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uIt2VJrzjGaVhTET-ph1qxyeJ8CWKpX4snAgoqfiqbjG/ts
+#EXTINF:-1 xui-id="8119" tvg-id="" tvg-name="|UK| ROK TV" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qi_UmZwK8az3aLeJsukOPkk.png" group-title="UK Asian",|UK| ROK TV
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uIt2VJrzjGaVhTET-ph1qxzqIPRfJLZTFWPt7zG24SIV/ts
+#EXTINF:-1 xui-id="8120" tvg-id="" tvg-name="|UK| TVC NEWS" tvg-logo="" group-title="UK Asian",|UK| TVC NEWS
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uOGulGAoGLYnvjBgJtf8sujMzGCAviDmP_FwNKdSc1R_/ts
+#EXTINF:-1 xui-id="8121" tvg-id="" tvg-name="|UK| RISHTET CINEPLEX" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qh_4Qbov0ibcZCuJ2WfPEmvY0BGyu-1tdb-sFb-cJQyTw.png" group-title="UK Asian",|UK| RISHTET CINEPLEX
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uOGulGAoGLYnvjBgJtf8suh8t9Le2dQs2xwx4UsHkXdJ/ts
+#EXTINF:-1 xui-id="8122" tvg-id="" tvg-name="------- World Sports -------" tvg-logo="" group-title="World Sports",------- World Sports -------
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uOGulGAoGLYnvjBgJtf8suiB06PRq8IqQX1fdUwK7eW4/ts
+#EXTINF:-1 xui-id="8123" tvg-id="" tvg-name="•??--- UK EPL 3PM ----??•" tvg-logo="http://shakeiptv.com:8080/images/pW2q9mYhl29ICtcGfxDTxOHMPdUA8N1Bms8GAaIdYGCMpaLGQY-KOYwL4ba7hPsj.png" group-title="World Sports",•??--- UK EPL 3PM ----??•
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uOGulGAoGLYnvjBgJtf8suhk72eGZKNSxRVuGz8g1SCa/ts
+#EXTINF:-1 xui-id="8124" tvg-id="" tvg-name="HK: NOW Sports 4K" tvg-logo="http://shakeiptv.com:8080/images/gQfyl6qZq-BGVhgL5xQD2kbMyz4O23cuvQvq2UxEr5YEqeFTI7FV0i_vcKztqPd0_QMGmlQU_qQo5hpS7PNgNQ.png" group-title="World Sports",HK: NOW Sports 4K
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uOGulGAoGLYnvjBgJtf8suhzv_UxN-Wu0-L5D2xwiLWV/ts
+#EXTINF:-1 xui-id="8125" tvg-id="" tvg-name="HK: NOW Sports PL 1 HD" tvg-logo="http://shakeiptv.com:8080/images/gQfyl6qZq-BGVhgL5xQD2kbMyz4O23cuvQvq2UxEr5YEqeFTI7FV0i_vcKztqPd0_QMGmlQU_qQo5hpS7PNgNQ.png" group-title="World Sports",HK: NOW Sports PL 1 HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uOGulGAoGLYnvjBgJtf8suh5Vr04Gzc9FOWWU7yT6rp8/ts
+#EXTINF:-1 xui-id="8126" tvg-id="" tvg-name="HK: NOW Sports PL 2 HD" tvg-logo="http://shakeiptv.com:8080/images/gQfyl6qZq-BGVhgL5xQD2kbMyz4O23cuvQvq2UxEr5YZHgjixu5IzeHfjk-XZx9BHpzQXuH0ts4GAYhmrcjmlw.png" group-title="World Sports",HK: NOW Sports PL 2 HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uOGulGAoGLYnvjBgJtf8sug5l9PYArNdB6-bDo_Io6O9/ts
+#EXTINF:-1 xui-id="8127" tvg-id="" tvg-name="HK: NOW Sports PL 3 HD" tvg-logo="http://shakeiptv.com:8080/images/gQfyl6qZq-BGVhgL5xQD2kbMyz4O23cuvQvq2UxEr5YXxo-Cqrx-R56t-2ehB5xzsn2GSlFF0KHAO4TCIkAEqw.png" group-title="World Sports",HK: NOW Sports PL 3 HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uOGulGAoGLYnvjBgJtf8suhDzEJYO-hu-jPFV9ZQKnfs/ts
+#EXTINF:-1 xui-id="8128" tvg-id="" tvg-name="HK: NOW Sports PL 4 HD" tvg-logo="http://shakeiptv.com:8080/images/gQfyl6qZq-BGVhgL5xQD2kbMyz4O23cuvQvq2UxEr5asW3D06I8zgCCLhHAlJylkxLHKqQOAW0WRkjeSfSNr2w.png" group-title="World Sports",HK: NOW Sports PL 4 HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uOGulGAoGLYnvjBgJtf8sugnENZcNYIecndRT70YI0ik/ts
+#EXTINF:-1 xui-id="8129" tvg-id="" tvg-name="HK: NOW Sports PL 5 HD" tvg-logo="http://shakeiptv.com:8080/images/gQfyl6qZq-BGVhgL5xQD2kbMyz4O23cuvQvq2UxEr5YOPNc5Us0gNhK9E7Mp1k9bJZmEqhe0jV91r1qLVD6nGg.png" group-title="World Sports",HK: NOW Sports PL 5 HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uOGulGAoGLYnvjBgJtf8suhBJdb74gjgdEvT-a7JiOEL/ts
+#EXTINF:-1 xui-id="8130" tvg-id="" tvg-name="HK: NOW Sports PL 6 HD" tvg-logo="http://shakeiptv.com:8080/images/gQfyl6qZq-BGVhgL5xQD2kbMyz4O23cuvQvq2UxEr5bJ73ihYdHJXwiu-JJ2g-F-u7D0IklN7ZKDFMgurJwzVA.png" group-title="World Sports",HK: NOW Sports PL 6 HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uNNxpzieT92HpQIbOpu-ClfieDR5BrRqgOsgb8ZY-FGY/ts
+#EXTINF:-1 xui-id="8131" tvg-id="" tvg-name="CA: DAZN 1 HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qjTAJJorvJD-ZqVge0E0qkA.png" group-title="World Sports",CA: DAZN 1 HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uNNxpzieT92HpQIbOpu-CldsAdfjpZQZMY4_MKcsu8ej/ts
+#EXTINF:-1 xui-id="8132" tvg-id="" tvg-name="CA: DAZN 2 HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qjTAJJorvJD-ZqVge0E0qkA.png" group-title="World Sports",CA: DAZN 2 HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uNNxpzieT92HpQIbOpu-CleBuXOiy14-OxOEMVmbgIDL/ts
+#EXTINF:-1 xui-id="8133" tvg-id="" tvg-name="CA: DAZN 3 HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qjTAJJorvJD-ZqVge0E0qkA.png" group-title="World Sports",CA: DAZN 3 HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uNNxpzieT92HpQIbOpu-Cle1RPR2L6N2pqUM-Cd149gL/ts
+#EXTINF:-1 xui-id="8134" tvg-id="" tvg-name="CA: DAZN 4 HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qjTAJJorvJD-ZqVge0E0qkA.png" group-title="World Sports",CA: DAZN 4 HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uNNxpzieT92HpQIbOpu-ClfW-GZU9AdZoLjltMhWF505/ts
+#EXTINF:-1 xui-id="8135" tvg-id="" tvg-name="CA: DAZN 5 HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qjTAJJorvJD-ZqVge0E0qkA.png" group-title="World Sports",CA: DAZN 5 HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uNNxpzieT92HpQIbOpu-ClcmqkSMXur1Bo5YLU4EDNUo/ts
+#EXTINF:-1 xui-id="8136" tvg-id="" tvg-name="CA: DAZN 6 HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qjTAJJorvJD-ZqVge0E0qkA.png" group-title="World Sports",CA: DAZN 6 HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uNNxpzieT92HpQIbOpu-ClfuxBGNgBSW2IrAdoxmuldN/ts
+#EXTINF:-1 xui-id="8137" tvg-id="" tvg-name="CA: DAZN 7 HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qjTAJJorvJD-ZqVge0E0qkA.png" group-title="World Sports",CA: DAZN 7 HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uNNxpzieT92HpQIbOpu-Clfk1OjM9yfSSNlo1fv-qYLU/ts
+#EXTINF:-1 xui-id="8138" tvg-id="" tvg-name="CA: DAZN 8 HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qjTAJJorvJD-ZqVge0E0qkA.png" group-title="World Sports",CA: DAZN 8 HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uNNxpzieT92HpQIbOpu-ClfxCfPYTQ5QSk0kJ0BhX2rz/ts
+#EXTINF:-1 xui-id="8139" tvg-id="" tvg-name="AU: Optus Sport 1" tvg-logo="http://shakeiptv.com:8080/images/-aGl22v8FwBH4WwYb9lzM0omtj0lR5Kn61CVvbYDzvM81fKppKqM7NBMeVilGdWk1hzekZHu27v4FaGC5hK1gVObgwyNR5642NpcVv6DjKkfl04zmKr6iwY4WrN9M86MRNBhRZ0q30nlJnl9QOeb-N65v9JZwQZViCcMY_g6Fw0.jpg" group-title="World Sports",AU: Optus Sport 1
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uNNxpzieT92HpQIbOpu-CleHP3Vc2t0haHflvMvFn6Sc/ts
+#EXTINF:-1 xui-id="8140" tvg-id="" tvg-name="AU: Optus Sport 2" tvg-logo="http://shakeiptv.com:8080/images/-aGl22v8FwBH4WwYb9lzM0omtj0lR5Kn61CVvbYDzvM81fKppKqM7NBMeVilGdWk1hzekZHu27v4FaGC5hK1gVObgwyNR5642NpcVv6DjKkfl04zmKr6iwY4WrN9M86MRNBhRZ0q30nlJnl9QOeb-N65v9JZwQZViCcMY_g6Fw0.jpg" group-title="World Sports",AU: Optus Sport 2
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uIW7l9KYqv1Fr-rVNXwTE17upsHcXM4r0hNIyGYifwBS/ts
+#EXTINF:-1 xui-id="8141" tvg-id="" tvg-name="AU: Optus Sport 4" tvg-logo="http://shakeiptv.com:8080/images/-aGl22v8FwBH4WwYb9lzM0omtj0lR5Kn61CVvbYDzvM81fKppKqM7NBMeVilGdWk1hzekZHu27v4FaGC5hK1gVObgwyNR5642NpcVv6DjKkfl04zmKr6iwY4WrN9M86MRNBhRZ0q30nlJnl9QOeb-N65v9JZwQZViCcMY_g6Fw0.jpg" group-title="World Sports",AU: Optus Sport 4
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uIW7l9KYqv1Fr-rVNXwTE14Hd7DTNOxoOZ01GnSLmvk1/ts
+#EXTINF:-1 xui-id="8142" tvg-id="" tvg-name="AU: Optus Sport 3" tvg-logo="http://shakeiptv.com:8080/images/-aGl22v8FwBH4WwYb9lzM0omtj0lR5Kn61CVvbYDzvM81fKppKqM7NBMeVilGdWk1hzekZHu27v4FaGC5hK1gVObgwyNR5642NpcVv6DjKkfl04zmKr6iwY4WrN9M86MRNBhRZ0q30nlJnl9QOeb-N65v9JZwQZViCcMY_g6Fw0.jpg" group-title="World Sports",AU: Optus Sport 3
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uIW7l9KYqv1Fr-rVNXwTE154ox3nEqfVqY6r4AdYtmNv/ts
+#EXTINF:-1 xui-id="8143" tvg-id="" tvg-name="AU: Optus Sport 5" tvg-logo="http://shakeiptv.com:8080/images/-aGl22v8FwBH4WwYb9lzM0omtj0lR5Kn61CVvbYDzvM81fKppKqM7NBMeVilGdWk1hzekZHu27v4FaGC5hK1gVObgwyNR5642NpcVv6DjKkfl04zmKr6iwY4WrN9M86MRNBhRZ0q30nlJnl9QOeb-N65v9JZwQZViCcMY_g6Fw0.jpg" group-title="World Sports",AU: Optus Sport 5
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uIW7l9KYqv1Fr-rVNXwTE17BcHoft_m5C0BD0KYQq0U4/ts
+#EXTINF:-1 xui-id="8144" tvg-id="" tvg-name="AU: Optus Sport 6" tvg-logo="http://shakeiptv.com:8080/images/-aGl22v8FwBH4WwYb9lzM0omtj0lR5Kn61CVvbYDzvM81fKppKqM7NBMeVilGdWk1hzekZHu27v4FaGC5hK1gVObgwyNR5642NpcVv6DjKkfl04zmKr6iwY4WrN9M86MRNBhRZ0q30nlJnl9QOeb-N65v9JZwQZViCcMY_g6Fw0.jpg" group-title="World Sports",AU: Optus Sport 6
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uIW7l9KYqv1Fr-rVNXwTE16goPieKwNUjcAYvp6lyQv2/ts
+#EXTINF:-1 xui-id="8145" tvg-id="" tvg-name="AU: Optus Sport 7" tvg-logo="http://shakeiptv.com:8080/images/-aGl22v8FwBH4WwYb9lzM0omtj0lR5Kn61CVvbYDzvM81fKppKqM7NBMeVilGdWk1hzekZHu27v4FaGC5hK1gVObgwyNR5642NpcVv6DjKkfl04zmKr6iwY4WrN9M86MRNBhRZ0q30nlJnl9QOeb-N65v9JZwQZViCcMY_g6Fw0.jpg" group-title="World Sports",AU: Optus Sport 7
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uIW7l9KYqv1Fr-rVNXwTE159Nb-ywLtmSQWZQHq8Ibpr/ts
+#EXTINF:-1 xui-id="8146" tvg-id="" tvg-name="NZ: SparkSports 1" tvg-logo="http://shakeiptv.com:8080/images/dR4WeNpuU3iThrG9VSZqQQd-Hg6MFbaDINZpCL2fPIYRLu4Jz7BCh4NXLSQSovzZJJVGU908TiiSzJVxYqGdgCBd8ih02G8VYYBk8XOJv8Ii68SPgznEY7-OcCbYHgXX.jpg" group-title="World Sports",NZ: SparkSports 1
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uIW7l9KYqv1Fr-rVNXwTE176lFo_Z8IOVuUivzJWFuD8/ts
+#EXTINF:-1 xui-id="8147" tvg-id="" tvg-name="NZ: SparkSports 2" tvg-logo="http://shakeiptv.com:8080/images/dR4WeNpuU3iThrG9VSZqQQd-Hg6MFbaDINZpCL2fPIYRLu4Jz7BCh4NXLSQSovzZJJVGU908TiiSzJVxYqGdgCBd8ih02G8VYYBk8XOJv8Ii68SPgznEY7-OcCbYHgXX.jpg" group-title="World Sports",NZ: SparkSports 2
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uIW7l9KYqv1Fr-rVNXwTE15kLTGrGDYsp9lO8h7iFG7j/ts
+#EXTINF:-1 xui-id="8148" tvg-id="" tvg-name="NZ: SparkSports 3" tvg-logo="http://shakeiptv.com:8080/images/dR4WeNpuU3iThrG9VSZqQQd-Hg6MFbaDINZpCL2fPIYRLu4Jz7BCh4NXLSQSovzZJJVGU908TiiSzJVxYqGdgCBd8ih02G8VYYBk8XOJv8Ii68SPgznEY7-OcCbYHgXX.jpg" group-title="World Sports",NZ: SparkSports 3
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uIW7l9KYqv1Fr-rVNXwTE17rE6jsvnFLNmopAKDkaNt1/ts
+#EXTINF:-1 xui-id="8149" tvg-id="" tvg-name="NZ: SparkSports 4" tvg-logo="http://shakeiptv.com:8080/images/dR4WeNpuU3iThrG9VSZqQQd-Hg6MFbaDINZpCL2fPIYRLu4Jz7BCh4NXLSQSovzZJJVGU908TiiSzJVxYqGdgCBd8ih02G8VYYBk8XOJv8Ii68SPgznEY7-OcCbYHgXX.jpg" group-title="World Sports",NZ: SparkSports 4
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uIW7l9KYqv1Fr-rVNXwTE14DtyCKNhpx-TCiGwyJGCiO/ts
+#EXTINF:-1 xui-id="8150" tvg-id="" tvg-name="NZ: SparkSports 5" tvg-logo="http://shakeiptv.com:8080/images/dR4WeNpuU3iThrG9VSZqQQd-Hg6MFbaDINZpCL2fPIYRLu4Jz7BCh4NXLSQSovzZJJVGU908TiiSzJVxYqGdgCBd8ih02G8VYYBk8XOJv8Ii68SPgznEY7-OcCbYHgXX.jpg" group-title="World Sports",NZ: SparkSports 5
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uKsZvyAfiI4RrCKWbg8KGegIMYE-8qldjsibz_r-8FcB/ts
+#EXTINF:-1 xui-id="8151" tvg-id="" tvg-name="NZ: SparkSports 6" tvg-logo="http://shakeiptv.com:8080/images/dR4WeNpuU3iThrG9VSZqQQd-Hg6MFbaDINZpCL2fPIYRLu4Jz7BCh4NXLSQSovzZJJVGU908TiiSzJVxYqGdgCBd8ih02G8VYYBk8XOJv8Ii68SPgznEY7-OcCbYHgXX.jpg" group-title="World Sports",NZ: SparkSports 6
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uKsZvyAfiI4RrCKWbg8KGejJAKiiAfLR1vrOXpdf_XNZ/ts
+#EXTINF:-1 xui-id="8152" tvg-id="" tvg-name="NZ: SparkSports 7" tvg-logo="http://shakeiptv.com:8080/images/dR4WeNpuU3iThrG9VSZqQQd-Hg6MFbaDINZpCL2fPIYRLu4Jz7BCh4NXLSQSovzZJJVGU908TiiSzJVxYqGdgCBd8ih02G8VYYBk8XOJv8Ii68SPgznEY7-OcCbYHgXX.jpg" group-title="World Sports",NZ: SparkSports 7
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uKsZvyAfiI4RrCKWbg8KGeiBU6t7S6v_OvZMBu_0V3Vt/ts
+#EXTINF:-1 xui-id="8153" tvg-id="" tvg-name="NZ: SparkSports 8" tvg-logo="http://shakeiptv.com:8080/images/dR4WeNpuU3iThrG9VSZqQQd-Hg6MFbaDINZpCL2fPIYRLu4Jz7BCh4NXLSQSovzZJJVGU908TiiSzJVxYqGdgCBd8ih02G8VYYBk8XOJv8Ii68SPgznEY7-OcCbYHgXX.jpg" group-title="World Sports",NZ: SparkSports 8
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uKsZvyAfiI4RrCKWbg8KGejDA663WFd_t96PpmmyEqqp/ts
+#EXTINF:-1 xui-id="8154" tvg-id="" tvg-name="NZ: SparkSports 9" tvg-logo="http://shakeiptv.com:8080/images/dR4WeNpuU3iThrG9VSZqQQd-Hg6MFbaDINZpCL2fPIYRLu4Jz7BCh4NXLSQSovzZJJVGU908TiiSzJVxYqGdgCBd8ih02G8VYYBk8XOJv8Ii68SPgznEY7-OcCbYHgXX.jpg" group-title="World Sports",NZ: SparkSports 9
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uKsZvyAfiI4RrCKWbg8KGejGnHkjAlsesjNy4rlqhoM6/ts
+#EXTINF:-1 xui-id="8155" tvg-id="" tvg-name="NZ: SparkSports 10" tvg-logo="http://shakeiptv.com:8080/images/dR4WeNpuU3iThrG9VSZqQQd-Hg6MFbaDINZpCL2fPIYRLu4Jz7BCh4NXLSQSovzZJJVGU908TiiSzJVxYqGdgCBd8ih02G8VYYBk8XOJv8Ii68SPgznEY7-OcCbYHgXX.jpg" group-title="World Sports",NZ: SparkSports 10
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uKsZvyAfiI4RrCKWbg8KGejX3vzUv34F990hAmRy4XCB/ts
+#EXTINF:-1 xui-id="8156" tvg-id="" tvg-name="MY: Astro SuperSport 1 HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhEbUOap9tf75gt-GaWQpeSpAsGdIccQ227_ySmx-jdpA.png" group-title="World Sports",MY: Astro SuperSport 1 HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uKsZvyAfiI4RrCKWbg8KGejBO76R_GLR1Gej844pearn/ts
+#EXTINF:-1 xui-id="8157" tvg-id="" tvg-name="MY: Astro SuperSport 2 HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhEbUOap9tf75gt-GaWQpeSQNY_z-PLc6Csr92RS8ioFw.png" group-title="World Sports",MY: Astro SuperSport 2 HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uKsZvyAfiI4RrCKWbg8KGehsOVWx5EUlsAFnfMskvWFe/ts
+#EXTINF:-1 xui-id="8158" tvg-id="" tvg-name="MY: Astro SuperSport 3 HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhEbUOap9tf75gt-GaWQpeSusKrvr6sg4MvKsjXZObnuA.png" group-title="World Sports",MY: Astro SuperSport 3 HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uKsZvyAfiI4RrCKWbg8KGehRYf0V66sNndcAvUN0tkI0/ts
+#EXTINF:-1 xui-id="8159" tvg-id="" tvg-name="MY: Astro SuperSport 4 HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qhEbUOap9tf75gt-GaWQpeSnENiIwMvB3NrQ9rUPssq5A.png" group-title="World Sports",MY: Astro SuperSport 4 HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uKsZvyAfiI4RrCKWbg8KGeixFcM0praegNXfg59hNNXV/ts
+#EXTINF:-1 xui-id="8160" tvg-id="" tvg-name="ZA: SuperSport Maximo HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qh-7wL61D6Q0CcD6w0ojoIfA7N6scr_wygDPL-Q6-O5PA.png" group-title="World Sports",ZA: SuperSport Maximo HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uGq0y2GVT_bppe9hOnYzEzLzujlvx1uSiW3qnFuKTQ2h/ts
+#EXTINF:-1 xui-id="8161" tvg-id="" tvg-name="ZA: SuperSport Premier League FHD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qh-7wL61D6Q0CcD6w0ojoIfuWVrrOWkcQmlesqc97Fc-A.png" group-title="World Sports",ZA: SuperSport Premier League FHD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uGq0y2GVT_bppe9hOnYzEzJsMcLpSVsyHZlOuQzfLVXx/ts
+#EXTINF:-1 xui-id="8162" tvg-id="" tvg-name="ZA: SuperSport Blitz HD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qh-7wL61D6Q0CcD6w0ojoIfhJ5XVgALj9WgPEZkLQL3bA.png" group-title="World Sports",ZA: SuperSport Blitz HD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uGq0y2GVT_bppe9hOnYzEzJf7hVzAZhAZmrq3lrkbIHJ/ts
+#EXTINF:-1 xui-id="8163" tvg-id="" tvg-name="ZA: SuperSport LaLiga FHD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qh-7wL61D6Q0CcD6w0ojoIffo3n-BHUvnxwEOZf2jmTMQ.png" group-title="World Sports",ZA: SuperSport LaLiga FHD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uGq0y2GVT_bppe9hOnYzEzLqx-jkK1IMUaX8jFdJfuZ6/ts
+#EXTINF:-1 xui-id="8164" tvg-id="" tvg-name="ZA: SuperSport Football FHD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qh-7wL61D6Q0CcD6w0ojoIftZDEfgZlBknOLmA382ibMw.png" group-title="World Sports",ZA: SuperSport Football FHD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uGq0y2GVT_bppe9hOnYzEzLC5CimBwGf8ksZckGdM0E2/ts
+#EXTINF:-1 xui-id="8165" tvg-id="" tvg-name="ZA: SuperSport PSL FHD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qh-7wL61D6Q0CcD6w0ojoIfU3IDopGcnLM56tKAKvIKuA.png" group-title="World Sports",ZA: SuperSport PSL FHD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uGq0y2GVT_bppe9hOnYzEzJACk7VL7N3RKi5k4ZihGv2/ts
+#EXTINF:-1 xui-id="8166" tvg-id="" tvg-name="ZA: SuperSport Cricket FHD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qh-7wL61D6Q0CcD6w0ojoIfkK0BlNuaOw_4QHCRC35fFA.png" group-title="World Sports",ZA: SuperSport Cricket FHD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uGq0y2GVT_bppe9hOnYzEzKcDHpGvtNWw_dt1Ddc2EYn/ts
+#EXTINF:-1 xui-id="8167" tvg-id="" tvg-name="ZA: SuperSport Variety 1 FHD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qh-7wL61D6Q0CcD6w0ojoIftZDEfgZlBknOLmA382ibMw.png" group-title="World Sports",ZA: SuperSport Variety 1 FHD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uGq0y2GVT_bppe9hOnYzEzLKnfJg7HpqBNI6uWjpOzrJ/ts
+#EXTINF:-1 xui-id="8168" tvg-id="" tvg-name="ZA: SuperSport Variety 2 FHD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qh-7wL61D6Q0CcD6w0ojoIfXJvMFZ1G2SGYBJ2BgLvcGA.png" group-title="World Sports",ZA: SuperSport Variety 2 FHD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uGq0y2GVT_bppe9hOnYzEzInyn6pYZoWc8_9NZbIxWuI/ts
+#EXTINF:-1 xui-id="8169" tvg-id="" tvg-name="ZA: SuperSport Variety 3 FHD" tvg-logo="http://shakeiptv.com:8080/images/SYREE6EkvzR8-pKtIF7YF1GRZtg_JgfHgeWGK70iaQb5tBxp9sBZbBetE_EK7xjA.png" group-title="World Sports",ZA: SuperSport Variety 3 FHD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uGq0y2GVT_bppe9hOnYzEzKZxPOzHNQwvJ8qSn1FIw1A/ts
+#EXTINF:-1 xui-id="8170" tvg-id="" tvg-name="ZA: SuperSport Variety 4 FHD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qh-7wL61D6Q0CcD6w0ojoIf9sstZi7xYVsVLsF7G9Mvkg.png" group-title="World Sports",ZA: SuperSport Variety 4 FHD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uFPKg3Yx-6P8S6Mli01NeNhNaMl0sz1bxp800G21HJmI/ts
+#EXTINF:-1 xui-id="8171" tvg-id="" tvg-name="ZA: SuperSport Motorsport FHD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qh-7wL61D6Q0CcD6w0ojoIfU6vw2JX-_D4_kA2HNOpC7w.png" group-title="World Sports",ZA: SuperSport Motorsport FHD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uFPKg3Yx-6P8S6Mli01NeNgYWbE8E8M7QrVSFZNxcj2b/ts
+#EXTINF:-1 xui-id="8172" tvg-id="" tvg-name="ZA: SuperSport Action FHD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qh-7wL61D6Q0CcD6w0ojoIfHGXZKA1fgKoEQVNX7K8OhA.png" group-title="World Sports",ZA: SuperSport Action FHD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uFPKg3Yx-6P8S6Mli01NeNhQrGZ0_aRaKzyTiEgLpiCA/ts
+#EXTINF:-1 xui-id="8173" tvg-id="" tvg-name="ZA: SuperSport Tennis FHD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qh-7wL61D6Q0CcD6w0ojoIfPmoAvIIt0GHpxZzgQHvubA.png" group-title="World Sports",ZA: SuperSport Tennis FHD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uFPKg3Yx-6P8S6Mli01NeNgC_s5eed7SxW1RWZMA-UTv/ts
+#EXTINF:-1 xui-id="8174" tvg-id="" tvg-name="ZA: SuperSport Rugby FHD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qh-7wL61D6Q0CcD6w0ojoIf51SEQfuRukEKdsKh2JbYAA.png" group-title="World Sports",ZA: SuperSport Rugby FHD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uFPKg3Yx-6P8S6Mli01NeNiUGCXbABRu4Q4qee_H1DEQ/ts
+#EXTINF:-1 xui-id="8175" tvg-id="" tvg-name="ZA: SuperSport Golf FHD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qh-7wL61D6Q0CcD6w0ojoIftZDEfgZlBknOLmA382ibMw.png" group-title="World Sports",ZA: SuperSport Golf FHD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uFPKg3Yx-6P8S6Mli01NeNgMuEhyVBLwwDiOkjvzKw0-/ts
+#EXTINF:-1 xui-id="8176" tvg-id="" tvg-name="ZA: SuperSport Grandstand FHD" tvg-logo="http://shakeiptv.com:8080/images/fn50FnPLhd5g1vKosOwBV9E_fQh2ZQmeHhvNYBQA6qh-7wL61D6Q0CcD6w0ojoIftZDEfgZlBknOLmA382ibMw.png" group-title="World Sports",ZA: SuperSport Grandstand FHD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uFPKg3Yx-6P8S6Mli01NeNiT_8QW2g8rNB1lq00qceIT/ts
+#EXTINF:-1 xui-id="8177" tvg-id="" tvg-name="CAR: RUSH FHD" tvg-logo="http://shakeiptv.com:8080/images/XuRnTOYKkre_nKG-HuwzH7dN6vWh2JJuxvXLGUYrYpktV9DYZ_EYoyGwZ36dslw_n_bRYjHQJcMXUiDwJxIdlhY8pPFhcdx7rAEjuyO_q-M.png" group-title="World Sports",CAR: RUSH FHD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uFPKg3Yx-6P8S6Mli01NeNhDJZ5J4HhXORz4il60DzZg/ts
+#EXTINF:-1 xui-id="8178" tvg-id="" tvg-name="My: Astro SuperSport UHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png/revision/latest?cb=20220415221642" group-title="World Sports",My: Astro SuperSport UHD
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uFPKg3Yx-6P8S6Mli01NeNjvFDF1NfrzxD6PecGDKWml/ts
+#EXTINF:-1 xui-id="8179" tvg-id="" tvg-name="SPFL: Rangers FC TV (Live Matches)" tvg-logo="http://shakeiptv.com:8080/images/m1jGn-uggN-Shm8dFlQUuxbT_BEHDbzFxpM5FrH5wbz3sjbxxOaXbei8GGbuMDuZB7qsEQwxJNDw8F55EZ_BxGQexXdcz-Zqb40YEEcXijg.png" group-title="World Sports",SPFL: Rangers FC TV (Live Matches)
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uFPKg3Yx-6P8S6Mli01NeNgpdlJ3ZTDMCnSKcaTESMzA/ts
+#EXTINF:-1 xui-id="8180" tvg-id="" tvg-name="SPFL: Celtic FC TV (Live Matches)" tvg-logo="http://cdn.celticfc.net/assets/images/web/crest.png" group-title="World Sports",SPFL: Celtic FC TV (Live Matches)
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uA3lsEmIXmaTsErGfN8EgUmUGhuXkzIR129t7PioV7ak/ts
+#EXTINF:-1 xui-id="8181" tvg-id="" tvg-name="SPFL: Aberdeen TV (Live Matches)" tvg-logo="http://shakeiptv.com:8080/images/XSTNKyrnWJkO-JmgKUOjUpxuO2mVMf91-XAlTxRLVcHOKh4J-2uH44DWwL-zzna5SWofJXKvV5w_E927NBqQKF2B62z31wizNlgfv9z6Od0.jpg" group-title="World Sports",SPFL: Aberdeen TV (Live Matches)
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uA3lsEmIXmaTsErGfN8EgUl2jV3tJMPXYtDgNn9BVo1d/ts
+#EXTINF:-1 xui-id="8182" tvg-id="" tvg-name="SPFL: Dundee Utd (Live Matches)" tvg-logo="http://shakeiptv.com:8080/images/5Etcu4N3Zwnnz0QicKkQn8Qlx9uhR953n0Z6UfeJeIyY1kDxHE_--hsiwwBnmpL_jHLxa04EfbnK1unwaD-EPVWFGJnx0IJeRGhULWFjgg8.png" group-title="World Sports",SPFL: Dundee Utd (Live Matches)
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uA3lsEmIXmaTsErGfN8EgUlm2kd4JIlOf6a_yfZWN7Ib/ts
+#EXTINF:-1 xui-id="8183" tvg-id="" tvg-name="SPFL: Rotherham TV (Live Matches)" tvg-logo="https://pbs.twimg.com/profile_images/930126276110712832/2B-IjvX1_400x400.jpg" group-title="World Sports",SPFL: Rotherham TV (Live Matches)
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uA3lsEmIXmaTsErGfN8EgUkFnTL8XCjxkOw_umHkbc8Q/ts
+#EXTINF:-1 xui-id="8184" tvg-id="" tvg-name="SPFL: Hearts FC (Live Matches)" tvg-logo="https://pbs.twimg.com/profile_images/1026474065014521857/FcYsL4cE_400x400.jpg" group-title="World Sports",SPFL: Hearts FC (Live Matches)
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uA3lsEmIXmaTsErGfN8EgUn7dVPOu7hqPT5h5FComRgF/ts
+#EXTINF:-1 xui-id="8185" tvg-id="" tvg-name="SPFL: Hibs TV (Live Matches)" tvg-logo="http://shakeiptv.com:8080/images/WZk1bI9iIik0IH-FDuWYc1r8ptjRht8SvnllzWlDGvTiYtVYziDte4h5RMq-7rMrXGUEAP7jnNc-Mhh3Gy1k7g.png" group-title="World Sports",SPFL: Hibs TV (Live Matches)
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uA3lsEmIXmaTsErGfN8EgUmbhELrlt4UZqvebBYpSpbD/ts
+#EXTINF:-1 xui-id="8186" tvg-id="" tvg-name="SPFL: Motherwell FC (Live Matches)" tvg-logo="https://pbs.twimg.com/profile_images/798671891087163396/9sLYGGLc_400x400.jpg" group-title="World Sports",SPFL: Motherwell FC (Live Matches)
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uA3lsEmIXmaTsErGfN8EgUlJPHtpdQweLAYJ66ia5upZ/ts
+#EXTINF:-1 xui-id="8187" tvg-id="" tvg-name="SPFL: ST Johnstone FC (Live Matches)" tvg-logo="https://pbs.twimg.com/profile_images/937600960507113472/7JUpwAZw_400x400.jpg" group-title="World Sports",SPFL: ST Johnstone FC (Live Matches)
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uA3lsEmIXmaTsErGfN8EgUkuddTV0IrgB5awgLQMGe2U/ts
+#EXTINF:-1 xui-id="8188" tvg-id="" tvg-name="SPFL: ST Mirren FC (Live Matches)" tvg-logo="https://pbs.twimg.com/profile_images/1007278193445883904/6-7W3QsE_400x400.jpg" group-title="World Sports",SPFL: ST Mirren FC (Live Matches)
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uA3lsEmIXmaTsErGfN8EgUlUQh4IR9gL8tAJAemXtT6O/ts
+#EXTINF:-1 xui-id="8189" tvg-id="" tvg-name="SPFL: Kilmarnock FC (Live Matches)" tvg-logo="https://pbs.twimg.com/profile_images/1058834688993882112/EJo7Zxcm_400x400.jpg" group-title="World Sports",SPFL: Kilmarnock FC (Live Matches)
+http://shakeiptv.com:8080/play/-b_kzVyKZAMsWpX3UCd1uA3lsEmIXmaTsErGfN8EgUlpM-bhHMT58OooG0LpEPQr/ts
